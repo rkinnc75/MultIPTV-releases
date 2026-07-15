@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.29",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.29/MultIPTV-1.0.29.apk",
-  "sha256": "fbbf785e3b079223ccaa41b9a113b52a8b2fa6afe4dbcb6047fb33c8b27b198b",
+  "versionCode": 36,
+  "versionName": "1.0.30",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.30/MultIPTV-1.0.30.apk",
+  "sha256": "326aab08a37bf94ebd76c4d35a43a46e093396c54510ac7d232ce72d98a7f722",
   "minSdk": 23,
-  "notes": "Fix watchdog/rebuffer race that tore down healthy live streams"
+  "notes": "Channel group/category browse + hide/reorder"
 }
