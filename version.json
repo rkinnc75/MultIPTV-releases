@@ -2,6 +2,7 @@
   "versionCode": 29,
   "versionName": "1.0.23",
   "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.23/MultIPTV-1.0.23.apk",
+  "sha256": "fec6faca421c217fdf560121890ee7e42584c04674459770eea2aac7f4409e38",
   "minSdk": 23,
-  "notes": "Settings hub + Google-TV nav (Movies/Series split, Recordings, Startup)"
+  "notes": "Settings hub, Google-TV nav, export fix."
 }
