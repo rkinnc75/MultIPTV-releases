@@ -1,0 +1,7 @@
+{
+  "versionCode": 27,
+  "versionName": "1.0.21",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.21/MultIPTV-1.0.21.apk",
+  "minSdk": 23,
+  "notes": "Subtitle/audio track menu, VOD resume + autoplay, sleep timer, parental controls, favorites, per-source User-Agent presets, last-channel recall."
+}
