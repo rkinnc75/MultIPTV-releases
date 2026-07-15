@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.25/MultIPTV-1.0.25.apk",
-  "sha256": "5aa64b4de4a03d26063bb55a725fd772f9960592882e5daea223dd778945cdfe",
+  "versionCode": 32,
+  "versionName": "1.0.26",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.26/MultIPTV-1.0.26.apk",
+  "sha256": "7eb3d4dbbddc8428711aa6df5539e39f5bc3abce4a0da43183f23c50e39d572e",
   "minSdk": 23,
-  "notes": "Fix CI: update PlaybackTuningTest for the new hysteresis profile"
+  "notes": "Phase 6: theme engine — dark / light / follow-system"
 }
