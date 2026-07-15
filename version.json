@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.23",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.23/MultIPTV-1.0.23.apk",
-  "sha256": "fec6faca421c217fdf560121890ee7e42584c04674459770eea2aac7f4409e38",
+  "versionCode": 31,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.25/MultIPTV-1.0.25.apk",
+  "sha256": "5aa64b4de4a03d26063bb55a725fd772f9960592882e5daea223dd778945cdfe",
   "minSdk": 23,
-  "notes": "Settings hub, Google-TV nav, export fix."
+  "notes": "Fix CI: update PlaybackTuningTest for the new hysteresis profile"
 }
