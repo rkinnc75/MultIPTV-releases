@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.27",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.27/MultIPTV-1.0.27.apk",
-  "sha256": "483e0e1df8bc79143d9e7d7dd354687ab674ea9bb62a99853cf94af74a775ef5",
+  "versionCode": 34,
+  "versionName": "1.0.28",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.28/MultIPTV-1.0.28.apk",
+  "sha256": "8cd6e3628daba798a1d3ac879cda7a41e5cc045ebcb415a36224f6af1cd4c1c9",
   "minSdk": 23,
-  "notes": "Phase 6: settings backup & restore (.f4mbak)"
+  "notes": "Phase 6: WorkManager periodic auto-update"
 }
