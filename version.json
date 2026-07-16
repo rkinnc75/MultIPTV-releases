@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.41",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.41/MultIPTV-1.0.41.apk",
-  "sha256": "79d210b1a404a4baa2b15171ac9c9780a3063d54c2d7ee23d365ab5c31114552",
+  "versionCode": 49,
+  "versionName": "1.0.43",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.43/MultIPTV-1.0.43.apk",
+  "sha256": "80099f4ad0d4340c9144a9044c381134b54c57bb073dee00e07f45902b7c16bf",
   "minSdk": 23,
-  "notes": "CI: inject reporter config into release builds"
+  "notes": "Add /s25-log command alias (read latest S25 report)"
 }
