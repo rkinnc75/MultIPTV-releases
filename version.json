@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.45",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.45/MultIPTV-1.0.45.apk",
-  "sha256": "ba19775d3cd74e3336caeb68cbfd7ecad6256ed695641a17994bdfe566835a18",
+  "versionCode": 56,
+  "versionName": "1.0.50",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.50/MultIPTV-1.0.50.apk",
+  "sha256": "adef762f401b7b2caa899b8e4b69040becfe81cb8879f925fbfec3129716eb2c",
   "minSdk": 23,
-  "notes": "Recents rail + refresh GROUND_ZERO status"
+  "notes": "Audit playlist update-safety; refresh backlog status"
 }
