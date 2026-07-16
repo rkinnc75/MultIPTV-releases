@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.30",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.30/MultIPTV-1.0.30.apk",
-  "sha256": "326aab08a37bf94ebd76c4d35a43a46e093396c54510ac7d232ce72d98a7f722",
+  "versionCode": 37,
+  "versionName": "1.0.31",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.31/MultIPTV-1.0.31.apk",
+  "sha256": "d8db5b9b50b1ed8943b107ff8650da1e8024c722d58f8fe8c7106ba72239f2b2",
   "minSdk": 23,
-  "notes": "Channel group/category browse + hide/reorder"
+  "notes": "Multiview: 2–4 concurrent streams in a split grid"
 }
