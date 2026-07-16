@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.35",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.35/MultIPTV-1.0.35.apk",
-  "sha256": "c4ad8d55bd601827a16d62f50183975d63329d4beda185f4c3c27a5c8dc7f35f",
+  "versionCode": 42,
+  "versionName": "1.0.36",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.36/MultIPTV-1.0.36.apk",
+  "sha256": "ecadd8eada907eed50cb80f436f02dcaf88b0d4b039b373900632ab70531f5cf",
   "minSdk": 23,
-  "notes": "docs: GROUND_ZERO — .github-token is now two lines"
+  "notes": "docs(broker): browser-dashboard setup for the Cloudflare Worker"
 }
