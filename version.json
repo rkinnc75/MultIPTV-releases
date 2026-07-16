@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.37",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.37/MultIPTV-1.0.37.apk",
-  "sha256": "6a75ec5901abfce7bc100b1646ee49bc354e1b2b0bf0103c00fa70cd898dac65",
+  "versionCode": 47,
+  "versionName": "1.0.41",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.41/MultIPTV-1.0.41.apk",
+  "sha256": "79d210b1a404a4baa2b15171ac9c9780a3063d54c2d7ee23d365ab5c31114552",
   "minSdk": 23,
-  "notes": "docs(broker): worker name is multiptv-log-worker"
+  "notes": "CI: inject reporter config into release builds"
 }
