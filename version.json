@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.33",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.33/MultIPTV-1.0.33.apk",
-  "sha256": "fe51cfa0c111d21fe082b920a16970eb04130d4d6647a68e68f5e654d82ed827",
+  "versionCode": 41,
+  "versionName": "1.0.35",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.35/MultIPTV-1.0.35.apk",
+  "sha256": "c4ad8d55bd601827a16d62f50183975d63329d4beda185f4c3c27a5c8dc7f35f",
   "minSdk": 23,
-  "notes": "Keep the screen on during playback (phone idle-dim/sleep fix)"
+  "notes": "docs: GROUND_ZERO — .github-token is now two lines"
 }
