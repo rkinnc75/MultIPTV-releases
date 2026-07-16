@@ -1,8 +1,8 @@
 {
-  "versionCode": 59,
-  "versionName": "1.0.53",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.53/MultIPTV-1.0.53.apk",
-  "sha256": "539062bbc7bd009607b1fed5522f215cd34a5b278b55b60cc859f4e3b6a53ddb",
+  "versionCode": 60,
+  "versionName": "1.0.54",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.54/MultIPTV-1.0.54.apk",
+  "sha256": "1f046c8a09afff356e35544cd51bc82415e00548c7bbf475e92c52d06348af28",
   "minSdk": 23,
-  "notes": "docs: GROUND_ZERO — record the MODE_HLS revert + verification lesson"
+  "notes": "What's New wrap, Clear Logs, clear-on-report, skip header channels"
 }
