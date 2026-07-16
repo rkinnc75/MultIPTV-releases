@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "1.0.44",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.44/MultIPTV-1.0.44.apk",
-  "sha256": "bcdb5b2bf20f0b7bb2336816e200825018e0459c27ba8d783f58f58c3511df7d",
+  "versionCode": 51,
+  "versionName": "1.0.45",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.45/MultIPTV-1.0.45.apk",
+  "sha256": "ba19775d3cd74e3336caeb68cbfd7ecad6256ed695641a17994bdfe566835a18",
   "minSdk": 23,
-  "notes": "Unify device identity across local files and the uploaded report"
+  "notes": "Recents rail + refresh GROUND_ZERO status"
 }
