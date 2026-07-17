@@ -1,8 +1,8 @@
 {
-  "versionCode": 60,
-  "versionName": "1.0.54",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.54/MultIPTV-1.0.54.apk",
-  "sha256": "1f046c8a09afff356e35544cd51bc82415e00548c7bbf475e92c52d06348af28",
+  "versionCode": 62,
+  "versionName": "1.0.56",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.56/MultIPTV-1.0.56.apk",
+  "sha256": "502dbaa1c898783fba6779cb675a0b2543da577a48540b79f1c7aeb03a6765a8",
   "minSdk": 23,
-  "notes": "What's New wrap, Clear Logs, clear-on-report, skip header channels"
+  "notes": "Local-broadcast EPG matching (#3) + cold-start profiling (#4)"
 }
