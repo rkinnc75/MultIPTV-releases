@@ -1,8 +1,8 @@
 {
-  "versionCode": 70,
-  "versionName": "1.0.64",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.64/MultIPTV-1.0.64.apk",
-  "sha256": "e07d72106d69ee1634b7ba8e572d847464f8b642b7c2919db13f6ee33694afcb",
+  "versionCode": 71,
+  "versionName": "1.0.65",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.65/MultIPTV-1.0.65.apk",
+  "sha256": "5478b1ffe26dadcd42203fe57fee804b1706a1e29d7ff7b5c9b50348f6bff9ba",
   "minSdk": 23,
-  "notes": "VOD: data layer for the Movies/Series rebuild (runtime, continue-watching, more-like-this)"
+  "notes": "UI: fix glass rendering — nav pills tinted solid + translucent panel bleed"
 }
