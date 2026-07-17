@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "1.0.59",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.59/MultIPTV-1.0.59.apk",
-  "sha256": "bdd41eb8dcb6071d98c704de10faf358b286d77e8c94dfcaf2a0717b50ffa405",
+  "versionCode": 66,
+  "versionName": "1.0.60",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.60/MultIPTV-1.0.60.apk",
+  "sha256": "55e40f8b30431b97919bdca4fa5fe77f1f667524b5f1c9029a9149d4e2e46aa8",
   "minSdk": 23,
-  "notes": "Coverage matrix: correct overclaimed rows (partial audit findings)"
+  "notes": "Sources: manual per-playlist \"Refresh now\" with concurrency guard"
 }
