@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "1.0.69",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.69/MultIPTV-1.0.69.apk",
-  "sha256": "62c07c24eb98d08ab05379ad4f238f90100216bae716132c71b63670e1bee23b",
+  "versionCode": 79,
+  "versionName": "1.0.73",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.73/MultIPTV-1.0.73.apk",
+  "sha256": "2e979f388992fe0389de783a1bcf536d60416ba5146c0b04dd0f1ee6e0f033c4",
   "minSdk": 23,
-  "notes": "Playback: size LoadControl byte target to the device heap + back-buffer"
+  "notes": "deps: remove dead smbj + safe patch bumps (appcompat/constraintlayout/zxing)"
 }
