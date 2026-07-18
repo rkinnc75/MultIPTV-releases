@@ -1,8 +1,8 @@
 {
-  "versionCode": 85,
-  "versionName": "1.0.79",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.79/MultIPTV-1.0.79.apk",
-  "sha256": "5497f110e5d70b0d4e20bc1053f97fe70723e422c2fa5a2c78878731fa04fe33",
+  "versionCode": 86,
+  "versionName": "1.0.80",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.80/MultIPTV-1.0.80.apk",
+  "sha256": "3eb2a68852a09c66faa67517afda548aeb98a72c520f68e45e2a3a452204f54d",
   "minSdk": 23,
-  "notes": "Playback/scale P1: fast last-watched autoplay (decouple startup from full load)"
+  "notes": "UI: guide shows \"No guide data\" for empty rows instead of blank voids"
 }
