@@ -1,8 +1,8 @@
 {
-  "versionCode": 86,
-  "versionName": "1.0.80",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.80/MultIPTV-1.0.80.apk",
-  "sha256": "3eb2a68852a09c66faa67517afda548aeb98a72c520f68e45e2a3a452204f54d",
+  "versionCode": 87,
+  "versionName": "1.0.81",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.81/MultIPTV-1.0.81.apk",
+  "sha256": "d1a2347d34661961adef982b03d41dd2fc93c13df5d1b4ca942c8c0851ca4306",
   "minSdk": 23,
-  "notes": "UI: guide shows \"No guide data\" for empty rows instead of blank voids"
+  "notes": "EPG: stream-parse XMLTV into batched inserts (bounded RAM at 1M rows)"
 }
