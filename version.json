@@ -1,8 +1,8 @@
 {
-  "versionCode": 80,
-  "versionName": "1.0.74",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.74/MultIPTV-1.0.74.apk",
-  "sha256": "e1e0b581c1a65628e79436ec7cda8146526ded3577432225e1c7bae0c547a3ab",
+  "versionCode": 82,
+  "versionName": "1.0.76",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.76/MultIPTV-1.0.76.apk",
+  "sha256": "3647c44aa40d07434d05048a59c225eaf51c824e6f7b7efd307e788bb53bdf85",
   "minSdk": 23,
-  "notes": "build: Tier 2 toolchain upgrade — AGP 8.13, compileSdk 36, Kotlin 2.2, Room 2.8"
+  "notes": "UI: fix nav-pill focus flow — active=fill, ring=focus-only, chain L/R"
 }
