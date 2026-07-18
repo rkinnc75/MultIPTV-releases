@@ -1,8 +1,8 @@
 {
-  "versionCode": 82,
-  "versionName": "1.0.76",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.76/MultIPTV-1.0.76.apk",
-  "sha256": "3647c44aa40d07434d05048a59c225eaf51c824e6f7b7efd307e788bb53bdf85",
+  "versionCode": 83,
+  "versionName": "1.0.77",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.77/MultIPTV-1.0.77.apk",
+  "sha256": "5af54323ad92d2543643553f8ddbc910df2fd4047fef5ad21e9d84b50fd4b321",
   "minSdk": 23,
-  "notes": "UI: fix nav-pill focus flow — active=fill, ring=focus-only, chain L/R"
+  "notes": "Guide: paint channels immediately + narrower programme window (responsiveness)"
 }
