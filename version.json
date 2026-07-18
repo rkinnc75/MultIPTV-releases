@@ -1,8 +1,8 @@
 {
-  "versionCode": 79,
-  "versionName": "1.0.73",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.73/MultIPTV-1.0.73.apk",
-  "sha256": "2e979f388992fe0389de783a1bcf536d60416ba5146c0b04dd0f1ee6e0f033c4",
+  "versionCode": 80,
+  "versionName": "1.0.74",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.74/MultIPTV-1.0.74.apk",
+  "sha256": "e1e0b581c1a65628e79436ec7cda8146526ded3577432225e1c7bae0c547a3ab",
   "minSdk": 23,
-  "notes": "deps: remove dead smbj + safe patch bumps (appcompat/constraintlayout/zxing)"
+  "notes": "build: Tier 2 toolchain upgrade — AGP 8.13, compileSdk 36, Kotlin 2.2, Room 2.8"
 }
