@@ -1,8 +1,8 @@
 {
-  "versionCode": 89,
-  "versionName": "1.0.83",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.83/MultIPTV-1.0.83.apk",
-  "sha256": "91bf6e00fa0016510156b4333963faac77793076dd95ed0b73fe2b58b3bd3c4d",
+  "versionCode": 90,
+  "versionName": "1.0.84",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.84/MultIPTV-1.0.84.apk",
+  "sha256": "7f1435e5e68c7a104e5447d1cfc4bc4d21eefa0617137c3b60a7d4f8c327e596",
   "minSdk": 23,
-  "notes": "Playback: play/pause quick action in MENU→Options (audit F61)"
+  "notes": "Playback: surf-delay filter for recents (audit F55)"
 }
