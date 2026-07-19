@@ -1,8 +1,8 @@
 {
-  "versionCode": 114,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.8/MultIPTV-1.1.8.apk",
-  "sha256": "98bd6ee46fdbb0f65c81ad2e82d7c19308fb1f7e51496fc7b4fb6181a7ea3c4e",
+  "versionCode": 115,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.9/MultIPTV-1.1.9.apk",
+  "sha256": "420e1e50b0b52e7a4997e7333d9eb4ab05bb7048022bc702960ddc1f27eafda5",
   "minSdk": 23,
-  "notes": "Guide: type-to-filter the category rail"
+  "notes": "Search: segmented multi-domain (Live + Movies + Series) — audit F09-F13"
 }
