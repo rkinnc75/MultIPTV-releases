@@ -1,8 +1,8 @@
 {
-  "versionCode": 93,
-  "versionName": "1.0.87",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.87/MultIPTV-1.0.87.apk",
-  "sha256": "29087a9206aed6887ce24632fc086dabcd2fd12798fe544860a40600d6a59257",
+  "versionCode": 101,
+  "versionName": "1.0.95",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.95/MultIPTV-1.0.95.apk",
+  "sha256": "02840112c5c6ad82bf4a36870759c89b58a9d01c897e2a92a008b46fd75c3aff",
   "minSdk": 23,
-  "notes": "Sources: per-source auto-update interval UI (audit F41, F62)"
+  "notes": "Logos: configurable playlist-vs-folder priority (audit F43)"
 }
