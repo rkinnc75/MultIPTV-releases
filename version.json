@@ -1,8 +1,8 @@
 {
-  "versionCode": 110,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.4/MultIPTV-1.1.4.apk",
-  "sha256": "6c6605dc1eb052ac1c7833874842f140dc52997d0717e23e0631bdb618f81eb4",
+  "versionCode": 113,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.7/MultIPTV-1.1.7.apk",
+  "sha256": "c6aa415ff8b1b41cf7459788611738b939ec223026248d21ac64606b533fc045",
   "minSdk": 23,
-  "notes": "Guide: instant category open (count-seed + dwell pre-fetch)"
+  "notes": "docs: record increment-2 status (card + logos done, blur skipped)"
 }
