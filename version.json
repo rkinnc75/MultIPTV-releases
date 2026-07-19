@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.1/MultIPTV-1.1.1.apk",
-  "sha256": "9be0c339ee4606b07b385c2b8049c2216bc1ac4ee9081bc857fec0e0274129ef",
+  "versionCode": 108,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.2/MultIPTV-1.1.2.apk",
+  "sha256": "cd0d1c5d3b94d9970a3d6e797ceb411273a4cdc8e03085fcf01f1edd36fb1160",
   "minSdk": 23,
-  "notes": "Guide: in-guide live-TV search (backend + wiring) (audit F52)"
+  "notes": "Guide: windowed category-scoped channel queries (category-first IA, step 1)"
 }
