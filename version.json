@@ -1,8 +1,8 @@
 {
-  "versionCode": 92,
-  "versionName": "1.0.86",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.86/MultIPTV-1.0.86.apk",
-  "sha256": "b391a9cc7b846dba9e2040548b9da4f75d24d3f11290f274121cc20077323ae2",
+  "versionCode": 93,
+  "versionName": "1.0.87",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.87/MultIPTV-1.0.87.apk",
+  "sha256": "29087a9206aed6887ce24632fc086dabcd2fd12798fe544860a40600d6a59257",
   "minSdk": 23,
-  "notes": "EPG: buffer download to disk + O(1) programme filter (large-EPG fix)"
+  "notes": "Sources: per-source auto-update interval UI (audit F41, F62)"
 }
