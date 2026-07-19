@@ -1,8 +1,8 @@
 {
-  "versionCode": 101,
-  "versionName": "1.0.95",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.95/MultIPTV-1.0.95.apk",
-  "sha256": "02840112c5c6ad82bf4a36870759c89b58a9d01c897e2a92a008b46fd75c3aff",
+  "versionCode": 104,
+  "versionName": "1.0.98",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.98/MultIPTV-1.0.98.apk",
+  "sha256": "3957ff93c42d2027a3f435973bdb6646afe7e19667feeb6bcc589df145d3a981",
   "minSdk": 23,
-  "notes": "Logos: configurable playlist-vs-folder priority (audit F43)"
+  "notes": "docs: EPG preview/now-playing window belongs on the LEFT (mockup shows right)"
 }
