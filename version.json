@@ -1,8 +1,8 @@
 {
-  "versionCode": 119,
-  "versionName": "1.1.13",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.13/MultIPTV-1.1.13.apk",
-  "sha256": "a0e1c246de395c4fe5c811510f04dc974f7dc1011fec4cbd0b448d8754d99940",
+  "versionCode": 121,
+  "versionName": "1.1.15",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.15/MultIPTV-1.1.15.apk",
+  "sha256": "1a5cb1f4f23f1db4db721badfe267ae14d835295fedc9426ff1b9e321f2dbbbc",
   "minSdk": 23,
-  "notes": "VOD: My List rail (favorited movies/series) — closes audit F05"
+  "notes": "UI: micro-scale focus elevation (Effect 3) — closes audit F49"
 }
