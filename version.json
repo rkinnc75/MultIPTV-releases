@@ -1,8 +1,8 @@
 {
-  "versionCode": 104,
-  "versionName": "1.0.98",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.98/MultIPTV-1.0.98.apk",
-  "sha256": "3957ff93c42d2027a3f435973bdb6646afe7e19667feeb6bcc589df145d3a981",
+  "versionCode": 105,
+  "versionName": "1.0.99",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.99/MultIPTV-1.0.99.apk",
+  "sha256": "e0781fc1f76cdfe8313d69e50c9e0b06d5d4a157348f7440491f011532df71c9",
   "minSdk": 23,
-  "notes": "docs: EPG preview/now-playing window belongs on the LEFT (mockup shows right)"
+  "notes": "EPG: capture all <display-name> aliases for matching (audit F25)"
 }
