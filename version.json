@@ -1,8 +1,8 @@
 {
-  "versionCode": 117,
-  "versionName": "1.1.11",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.11/MultIPTV-1.1.11.apk",
-  "sha256": "6975b9322d73dc571ba596d3b57e245fabb99a891dc2337984795b59ee8c9053",
+  "versionCode": 118,
+  "versionName": "1.1.12",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.12/MultIPTV-1.1.12.apk",
+  "sha256": "fee64702b6a497a28d54161f1d3c3cdb0784f077c3a030ec8a87b3649db212c9",
   "minSdk": 23,
-  "notes": "VOD: movie detail (hero) screen — audit F02 (movies)"
+  "notes": "VOD: series detail + season selector — closes audit F02"
 }
