@@ -1,8 +1,8 @@
 {
-  "versionCode": 91,
-  "versionName": "1.0.85",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.85/MultIPTV-1.0.85.apk",
-  "sha256": "a854d2317fc66c4b28ca0a9af1a95ace5e624685cdeeae0e1724fb6920401816",
+  "versionCode": 92,
+  "versionName": "1.0.86",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.0.86/MultIPTV-1.0.86.apk",
+  "sha256": "b391a9cc7b846dba9e2040548b9da4f75d24d3f11290f274121cc20077323ae2",
   "minSdk": 23,
-  "notes": "EPG: apply tvg_shift + server_timezone to programme times (audit F14)"
+  "notes": "EPG: buffer download to disk + O(1) programme filter (large-EPG fix)"
 }
