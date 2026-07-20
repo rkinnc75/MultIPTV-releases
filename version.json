@@ -1,8 +1,8 @@
 {
-  "versionCode": 124,
-  "versionName": "1.1.18",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.18/MultIPTV-1.1.18.apk",
-  "sha256": "c34022412ea32a486f8d6583b5e4e3263ffd7c24a6e6ac17d8d53b67bdaebcfd",
+  "versionCode": 125,
+  "versionName": "1.1.19",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.19/MultIPTV-1.1.19.apk",
+  "sha256": "6da30a329373618d58b72b6e6a1ab9aa1ee32e8d9a4716ef6a914c1b776e540d",
   "minSdk": 23,
-  "notes": "Recording: HLS segment recorder for .m3u8 sources"
+  "notes": "Recording: play recordings from the catalog with resume (F29)"
 }
