@@ -1,8 +1,8 @@
 {
-  "versionCode": 125,
-  "versionName": "1.1.19",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.19/MultIPTV-1.1.19.apk",
-  "sha256": "6da30a329373618d58b72b6e6a1ab9aa1ee32e8d9a4716ef6a914c1b776e540d",
+  "versionCode": 128,
+  "versionName": "1.1.22",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.22/MultIPTV-1.1.22.apk",
+  "sha256": "fdb4deba81ad3da97b6da72dedecd5369f4d008b9ae67907d712a187be5eb31b",
   "minSdk": 23,
-  "notes": "Recording: play recordings from the catalog with resume (F29)"
+  "notes": "docs: mark F29/F30/F31 (recordings cluster) closed"
 }
