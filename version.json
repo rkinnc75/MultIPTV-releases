@@ -1,8 +1,8 @@
 {
-  "versionCode": 122,
-  "versionName": "1.1.16",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.16/MultIPTV-1.1.16.apk",
-  "sha256": "df19c26f94d4e9348cc2497a4b3d90d9137941c5428f74d609b2e149f9fb44ba",
+  "versionCode": 123,
+  "versionName": "1.1.17",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.17/MultIPTV-1.1.17.apk",
+  "sha256": "b856d66fd05ad8a4d166c4fd1457bb021b086760298ff1128e265bfb17f5e446",
   "minSdk": 23,
-  "notes": "Recording: instant duration picker + scheduled-recording dialogs"
+  "notes": "Recording: remux completed .ts to mp4 (stream-copy, no re-encode)"
 }
