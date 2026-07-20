@@ -1,8 +1,8 @@
 {
-  "versionCode": 121,
-  "versionName": "1.1.15",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.15/MultIPTV-1.1.15.apk",
-  "sha256": "1a5cb1f4f23f1db4db721badfe267ae14d835295fedc9426ff1b9e321f2dbbbc",
+  "versionCode": 122,
+  "versionName": "1.1.16",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.16/MultIPTV-1.1.16.apk",
+  "sha256": "df19c26f94d4e9348cc2497a4b3d90d9137941c5428f74d609b2e149f9fb44ba",
   "minSdk": 23,
-  "notes": "UI: micro-scale focus elevation (Effect 3) — closes audit F49"
+  "notes": "Recording: instant duration picker + scheduled-recording dialogs"
 }
