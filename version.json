@@ -1,8 +1,8 @@
 {
-  "versionCode": 123,
-  "versionName": "1.1.17",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.17/MultIPTV-1.1.17.apk",
-  "sha256": "b856d66fd05ad8a4d166c4fd1457bb021b086760298ff1128e265bfb17f5e446",
+  "versionCode": 124,
+  "versionName": "1.1.18",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.18/MultIPTV-1.1.18.apk",
+  "sha256": "c34022412ea32a486f8d6583b5e4e3263ffd7c24a6e6ac17d8d53b67bdaebcfd",
   "minSdk": 23,
-  "notes": "Recording: remux completed .ts to mp4 (stream-copy, no re-encode)"
+  "notes": "Recording: HLS segment recorder for .m3u8 sources"
 }
