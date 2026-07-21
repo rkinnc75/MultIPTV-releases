@@ -1,8 +1,8 @@
 {
-  "versionCode": 139,
-  "versionName": "1.1.33",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.33/MultIPTV-1.1.33.apk",
-  "sha256": "ffd6e48a3a6309399fc8d62777a63690334c56d374449d9735a61575a2e5ee37",
+  "versionCode": 140,
+  "versionName": "1.1.34",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.34/MultIPTV-1.1.34.apk",
+  "sha256": "f94b1757ebdaa9b235b0a906631cc2784033a69b1ef587f06109cb78a3560f07",
   "minSdk": 23,
-  "notes": "GUI(EPG §3): tighter grid proportions + overscan-safe insets"
+  "notes": "GUI(EPG §1 + fonts): nav icons + cyan glow-ring active tab; right-size fonts"
 }
