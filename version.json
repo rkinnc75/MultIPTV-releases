@@ -1,8 +1,8 @@
 {
-  "versionCode": 141,
-  "versionName": "1.1.35",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.35/MultIPTV-1.1.35.apk",
-  "sha256": "bcd296bee2236dd6c4655318759c4fd1aa0953c52a8a804217d2e48f951bae33",
+  "versionCode": 142,
+  "versionName": "1.1.36",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.36/MultIPTV-1.1.36.apk",
+  "sha256": "88df4772e66a412b48a1fa2849258538b10e91c0fd3e91f7648b22ecd934269b",
   "minSdk": 23,
-  "notes": "GUI(EPG §2): dock live video into a 16:9 window, details to its right"
+  "notes": "GUI(EPG §3/§4): dark-navy grid, rounded glass cells, mockup rail + chips + blur"
 }
