@@ -1,8 +1,8 @@
 {
-  "versionCode": 145,
-  "versionName": "1.1.39",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.39/MultIPTV-1.1.39.apk",
-  "sha256": "99004eb239a772c4f145961bbb1126c2229c7b5000aa51a5dbe9d660444c0688",
+  "versionCode": 146,
+  "versionName": "1.1.40",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.40/MultIPTV-1.1.40.apk",
+  "sha256": "8537bf6100167b36fd529cb0dc4f78276e038952f01544e6f430c1a44367799c",
   "minSdk": 23,
-  "notes": "Security(Port 8): structural Xtream positional-path credential redaction"
+  "notes": "Feature(Port 1): per-channel reliability scoring + Settings health report"
 }
