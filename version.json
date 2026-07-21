@@ -1,8 +1,8 @@
 {
-  "versionCode": 135,
-  "versionName": "1.1.29",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.29/MultIPTV-1.1.29.apk",
-  "sha256": "3c8e62f499d31df45eaa00a94c77afc079ef339c0d31d6969ad8fdae04dd8f66",
+  "versionCode": 136,
+  "versionName": "1.1.30",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.30/MultIPTV-1.1.30.apk",
+  "sha256": "af9ce25e537831463df8bd993bebcda7ce7fc5e2f9c433e999382f83130be7de",
   "minSdk": 23,
-  "notes": "Security: broker rate-limit fails closed + log-size cap (PF15, code)"
+  "notes": "Recording: low-disk graceful stop watchdog (F39)"
 }
