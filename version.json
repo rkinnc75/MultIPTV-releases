@@ -1,8 +1,8 @@
 {
-  "versionCode": 129,
-  "versionName": "1.1.23",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.23/MultIPTV-1.1.23.apk",
-  "sha256": "9aced0be2fdcced3caa60d527fc3af717d9dff961b1384474ea50803722401be",
+  "versionCode": 132,
+  "versionName": "1.1.26",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.26/MultIPTV-1.1.26.apk",
+  "sha256": "4a26518961a009d7e742054f633f6c6753e0cf0a8eb17dd0f562fa84aedcccf6",
   "minSdk": 23,
-  "notes": "GUI: primary Play button (light fill + dark text) + gradient focus rings on detail buttons"
+  "notes": "docs: combined completion checklist (PF14-20 security + open F-NN features)"
 }
