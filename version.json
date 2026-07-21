@@ -1,8 +1,8 @@
 {
-  "versionCode": 136,
-  "versionName": "1.1.30",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.30/MultIPTV-1.1.30.apk",
-  "sha256": "af9ce25e537831463df8bd993bebcda7ce7fc5e2f9c433e999382f83130be7de",
+  "versionCode": 138,
+  "versionName": "1.1.32",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.32/MultIPTV-1.1.32.apk",
+  "sha256": "f49f4113efcf8975be05637b194c25e88d760b166e6665e652e2d0fd8ed03316",
   "minSdk": 23,
-  "notes": "Recording: low-disk graceful stop watchdog (F39)"
+  "notes": "Feature: category rail wraps to top past the last item (F54, partial)"
 }
