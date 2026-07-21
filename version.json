@@ -1,8 +1,8 @@
 {
-  "versionCode": 146,
-  "versionName": "1.1.40",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.40/MultIPTV-1.1.40.apk",
-  "sha256": "8537bf6100167b36fd529cb0dc4f78276e038952f01544e6f430c1a44367799c",
+  "versionCode": 147,
+  "versionName": "1.1.41",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.41/MultIPTV-1.1.41.apk",
+  "sha256": "91ed8d3e198d67ebea50edef97019d5be1274a80c525c38a297e65ec2a9fbc14",
   "minSdk": 23,
-  "notes": "Feature(Port 1): per-channel reliability scoring + Settings health report"
+  "notes": "Feature(Port 2): DNS-over-HTTPS resolver (opt-in, off by default)"
 }
