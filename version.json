@@ -1,8 +1,8 @@
 {
-  "versionCode": 151,
-  "versionName": "1.1.45",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.45/MultIPTV-1.1.45.apk",
-  "sha256": "5b589d9566bdb76cd2ccf076aaf0dadc89f126cc0238a5cf4fdc4a8367572227",
+  "versionCode": 152,
+  "versionName": "1.1.46",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.46/MultIPTV-1.1.46.apk",
+  "sha256": "0a7a2a52aaf3bb3773dcecf4138df86ec473d71f11b37ea2e3dff9413393c3ad",
   "minSdk": 23,
-  "notes": "GUI(Series): multi-season tabs + full episode grid + glass detail"
+  "notes": "GUI(VOD detail): tighten space above the title"
 }
