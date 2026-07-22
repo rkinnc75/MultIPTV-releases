@@ -1,8 +1,8 @@
 {
-  "versionCode": 150,
-  "versionName": "1.1.44",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.44/MultIPTV-1.1.44.apk",
-  "sha256": "5a63dc5e3610eb29a861f886ddb847051e93a54edf757c14b27796632025dd27",
+  "versionCode": 151,
+  "versionName": "1.1.45",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.45/MultIPTV-1.1.45.apk",
+  "sha256": "5b589d9566bdb76cd2ccf076aaf0dadc89f126cc0238a5cf4fdc4a8367572227",
   "minSdk": 23,
-  "notes": "GUI(VOD): 'More Like This' rail on the movie/series detail (mockup)"
+  "notes": "GUI(Series): multi-season tabs + full episode grid + glass detail"
 }
