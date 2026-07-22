@@ -1,8 +1,8 @@
 {
-  "versionCode": 153,
-  "versionName": "1.1.47",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.47/MultIPTV-1.1.47.apk",
-  "sha256": "e65d564ce5a3b3cbb3160a8a98a565930a63f9f07da7e8f8270d42e87e2d0d75",
+  "versionCode": 154,
+  "versionName": "1.1.48",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.48/MultIPTV-1.1.48.apk",
+  "sha256": "2409c3a7441eba074a38daff136e4220877abecd1661030f4fca100d3d67356e",
   "minSdk": 23,
-  "notes": "GUI(EPG): decorative ambient sparkle in the sparse-grid empty space"
+  "notes": "docs(PF15): mark diagnostic-log broker DONE — deployed + E2E verified"
 }
