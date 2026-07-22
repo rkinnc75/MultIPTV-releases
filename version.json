@@ -1,8 +1,8 @@
 {
-  "versionCode": 149,
-  "versionName": "1.1.43",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.43/MultIPTV-1.1.43.apk",
-  "sha256": "6b3f927d1b67ff133d14749e5a9ff838bf76ef0c3956b03d034ccfb7fdb239a9",
+  "versionCode": 150,
+  "versionName": "1.1.44",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.44/MultIPTV-1.1.44.apk",
+  "sha256": "5a63dc5e3610eb29a861f886ddb847051e93a54edf757c14b27796632025dd27",
   "minSdk": 23,
-  "notes": "Port 2 hardening: negative-cache DoH misses (from on-device measurement)"
+  "notes": "GUI(VOD): 'More Like This' rail on the movie/series detail (mockup)"
 }
