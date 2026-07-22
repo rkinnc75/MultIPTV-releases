@@ -1,8 +1,8 @@
 {
-  "versionCode": 155,
-  "versionName": "1.1.49",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.49/MultIPTV-1.1.49.apk",
-  "sha256": "82d6286422389665eed6bb47e4eef38e5464ed27870ff000ed9acd535971baeb",
+  "versionCode": 156,
+  "versionName": "1.1.50",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.50/MultIPTV-1.1.50.apk",
+  "sha256": "768b34039189df9a8e33b733c3e30efa7b1dd65230b0e3e082cad19da1acb9d7",
   "minSdk": 23,
-  "notes": "docs: record this session's shipped UI polish in the checklist"
+  "notes": "GUI: Series-detail polish pass (nav/clock/blur/Play/More-Like)"
 }
