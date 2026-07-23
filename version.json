@@ -1,8 +1,8 @@
 {
-  "versionCode": 161,
-  "versionName": "1.1.55",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.55/MultIPTV-1.1.55.apk",
-  "sha256": "bcdea3ba7cebdf8070d66405201e2dbaf2c6505973dc789380a8ecf8a907f7f9",
+  "versionCode": 162,
+  "versionName": "1.1.56",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.56/MultIPTV-1.1.56.apk",
+  "sha256": "151790331eab9a1ba6a413c7562f1a19bbbba8bcc4625aaa8aadfd2fdb882030",
   "minSdk": 23,
-  "notes": "GUI(EPG): full selection ring, logo centered on name, cell 2nd line"
+  "notes": "GUI(EPG): hover-preview tunes selected channel; nav-matched times; polish"
 }
