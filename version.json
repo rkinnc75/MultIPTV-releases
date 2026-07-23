@@ -1,8 +1,8 @@
 {
-  "versionCode": 176,
-  "versionName": "1.1.70",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.70/MultIPTV-1.1.70.apk",
-  "sha256": "c492130cb923352ef0fef31bf10c64c1183b668b3eac57447e38933b7af19ffe",
+  "versionCode": 177,
+  "versionName": "1.1.71",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.71/MultIPTV-1.1.71.apk",
+  "sha256": "17de5f056bef52ba80e2ec563aa09dde95a60bd6ac01d5b67422df486c82168b",
   "minSdk": 23,
-  "notes": "Fix History/Favorites overlapping the guide when opened from it"
+  "notes": "docs+ci: refresh README latest-release; stop uploading CI build-artifacts"
 }
