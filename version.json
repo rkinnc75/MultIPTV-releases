@@ -1,8 +1,8 @@
 {
-  "versionCode": 174,
-  "versionName": "1.1.68",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.68/MultIPTV-1.1.68.apk",
-  "sha256": "0931c41fb27d33bdd2749017e06ae112de1a90196bfc6b872f106e82c16d79e2",
+  "versionCode": 175,
+  "versionName": "1.1.69",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.69/MultIPTV-1.1.69.apk",
+  "sha256": "b069f0f53fb615061a433c64242202bb1f4ebf55c3553a01283e9b10821a52e1",
   "minSdk": 23,
-  "notes": "Settings: 3-column layout so multiple sections show at once"
+  "notes": "Add third-party metadata enrichment (TVmaze) for the Series hero"
 }
