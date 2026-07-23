@@ -1,8 +1,8 @@
 {
-  "versionCode": 164,
-  "versionName": "1.1.58",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.58/MultIPTV-1.1.58.apk",
-  "sha256": "2a217e67a0ec2ce570f9436037482ea4e10e662765a2959f68f7292a723e3a5b",
+  "versionCode": 165,
+  "versionName": "1.1.59",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.59/MultIPTV-1.1.59.apk",
+  "sha256": "0a159fee59ea97d052b0229639720056d63ffc141604c3183ff55b6f37e6c2bd",
   "minSdk": 23,
-  "notes": "GUI(EPG): banner sized to details card, grid 2px below, lighter scrim"
+  "notes": "GUI(EPG): enforce banner geometry via card layout listener"
 }
