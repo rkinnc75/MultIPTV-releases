@@ -1,8 +1,8 @@
 {
-  "versionCode": 175,
-  "versionName": "1.1.69",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.69/MultIPTV-1.1.69.apk",
-  "sha256": "b069f0f53fb615061a433c64242202bb1f4ebf55c3553a01283e9b10821a52e1",
+  "versionCode": 176,
+  "versionName": "1.1.70",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.70/MultIPTV-1.1.70.apk",
+  "sha256": "c492130cb923352ef0fef31bf10c64c1183b668b3eac57447e38933b7af19ffe",
   "minSdk": 23,
-  "notes": "Add third-party metadata enrichment (TVmaze) for the Series hero"
+  "notes": "Fix History/Favorites overlapping the guide when opened from it"
 }
