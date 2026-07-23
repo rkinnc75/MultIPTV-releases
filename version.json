@@ -1,8 +1,8 @@
 {
-  "versionCode": 168,
-  "versionName": "1.1.62",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.62/MultIPTV-1.1.62.apk",
-  "sha256": "a21b0fc81355c5ba50583ee2947af660f47789e39e7f6c6828537618aad1251f",
+  "versionCode": 169,
+  "versionName": "1.1.63",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.63/MultIPTV-1.1.63.apk",
+  "sha256": "0cdfe21eccecd78a7bc54c35c916479409cce575b6fce6fdaa723c102a65abb6",
   "minSdk": 23,
-  "notes": "GUI(EPG): source pill flush to the cell's left edge"
+  "notes": "GUI(EPG): header Search + Favorites star cluster (replaces corner clock)"
 }
