@@ -1,8 +1,8 @@
 {
-  "versionCode": 178,
-  "versionName": "1.1.72",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.72/MultIPTV-1.1.72.apk",
-  "sha256": "a0ab457aa8bc2671fb711a9c6224044ea9db863a7646cc3d2b48da7831644db6",
+  "versionCode": 179,
+  "versionName": "1.1.73",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.73/MultIPTV-1.1.73.apk",
+  "sha256": "8462c3199adc46b50aeea537dcb03729909c4dcdeb39553f5df64cc5d6778ad5",
   "minSdk": 23,
-  "notes": "GUI(EPG): two-mode guide — category landing IS the rich grid"
+  "notes": "GUI(EPG): one screen, one pipeline — category data == the EPG"
 }
