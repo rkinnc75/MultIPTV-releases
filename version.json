@@ -1,8 +1,8 @@
 {
-  "versionCode": 190,
-  "versionName": "1.1.84",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.84/MultIPTV-1.1.84.apk",
-  "sha256": "e347cc5d2576804df1bd1136342a5f37f7726ae0a4029183e59af9bee05868c1",
+  "versionCode": 192,
+  "versionName": "1.1.86",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.86/MultIPTV-1.1.86.apk",
+  "sha256": "592997ffeb9df0698805f30bd57410efdd80ba3d612ff650f647a5ef1c9324bd",
   "minSdk": 23,
-  "notes": "Merge pull request #4 from rkinnc75/fix/vod-tile-placeholder"
+  "notes": "Merge pull request #5 from rkinnc75/fix/metadata-persistence"
 }
