@@ -1,8 +1,8 @@
 {
-  "versionCode": 195,
-  "versionName": "1.1.89",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.89/MultIPTV-1.1.89.apk",
-  "sha256": "bc670e3ef51d58e3bcfc0f5620d416ee3e7df3832c2809ff30dc8513c900a2c6",
+  "versionCode": 197,
+  "versionName": "1.1.91",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.1.91/MultIPTV-1.1.91.apk",
+  "sha256": "7ad4bb670b0a953be4ffba31fbc52c1a3d003bf41813947d7396eb3ac116425f",
   "minSdk": 23,
-  "notes": "Merge pull request #6 from rkinnc75/fix/epg-url-dialog-status"
+  "notes": "Merge pull request #7 from rkinnc75/fix/refresh-oom-progress"
 }
