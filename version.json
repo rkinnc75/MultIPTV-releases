@@ -1,8 +1,8 @@
 {
-  "versionCode": 213,
-  "versionName": "1.2.7",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.7/MultIPTV-1.2.7.apk",
-  "sha256": "bc31a3f6c763d990d57f83c0f369a25ef11fd01a03a38dbbdd7dc6278c98c05c",
+  "versionCode": 214,
+  "versionName": "1.2.8",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.8/MultIPTV-1.2.8.apk",
+  "sha256": "9650ea4093284c4fbbdc8211632eb8ef4f1bcd8a767ac0e304fd92f8d2969262",
   "minSdk": 23,
-  "notes": "Merge pull request #15 from rkinnc75/fix028"
+  "notes": "Guide: open on category data; BACK returns to the category rail"
 }
