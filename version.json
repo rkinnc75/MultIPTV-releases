@@ -1,8 +1,8 @@
 {
-  "versionCode": 216,
-  "versionName": "1.2.10",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.10/MultIPTV-1.2.10.apk",
-  "sha256": "102cfb4a99a2be2825566d91c8bacf14c67eaed80871196fe1fd4175e7a8dfc4",
+  "versionCode": 217,
+  "versionName": "1.2.11",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.11/MultIPTV-1.2.11.apk",
+  "sha256": "ca690167f4f19c847655a4627161c8c09721b8f9ea948fd49cdfd99e5447415a",
   "minSdk": 23,
-  "notes": "Nav: D-pad navigation logging; kill the phantom preview focus stop + grid crawl"
+  "notes": "Nav: deterministic channel-panel focus; debug logging on by default"
 }
