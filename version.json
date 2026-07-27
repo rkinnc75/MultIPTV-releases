@@ -1,8 +1,8 @@
 {
-  "versionCode": 207,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.1/MultIPTV-1.2.1.apk",
-  "sha256": "7a58b05f7be11dfa04f0868a870537ed89c5d1a04de925c15828bbda004cfe6a",
+  "versionCode": 209,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.3/MultIPTV-1.2.3.apk",
+  "sha256": "2ddcdb9aa0afb09c82ef93981085ed3787e6a893a7e69481a9e090873ea7f8a9",
   "minSdk": 23,
-  "notes": "Merge pull request #12 from rkinnc75/groups/category-selection"
+  "notes": "Merge pull request #13 from rkinnc75/groups/selection-entry"
 }
