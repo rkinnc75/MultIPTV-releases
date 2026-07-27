@@ -1,8 +1,8 @@
 {
-  "versionCode": 215,
-  "versionName": "1.2.9",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.9/MultIPTV-1.2.9.apk",
-  "sha256": "d42a501ee0ee78b901c578fb84016b9e32c7f66cadeb38108ceb10c8585bf1a4",
+  "versionCode": 216,
+  "versionName": "1.2.10",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.10/MultIPTV-1.2.10.apk",
+  "sha256": "102cfb4a99a2be2825566d91c8bacf14c67eaed80871196fe1fd4175e7a8dfc4",
   "minSdk": 23,
-  "notes": "Guide: clip long rail names; no blank grid on a cold open"
+  "notes": "Nav: D-pad navigation logging; kill the phantom preview focus stop + grid crawl"
 }
