@@ -1,8 +1,8 @@
 {
-  "versionCode": 224,
-  "versionName": "1.2.18",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.18/MultIPTV-1.2.18-debug.apk",
-  "sha256": "d979b687d6325a0bd6e9c964418afab88934d7414afda828c3c0a00cceacff53",
+  "versionCode": 225,
+  "versionName": "1.2.19",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.19/MultIPTV-1.2.19-debug.apk",
+  "sha256": "fd080ede86d0db6dd4568f59c2716c7d46fdcfa341e77de7d54b61d03efd1192",
   "minSdk": 23,
-  "notes": "Channel panel: rebuild as the bottom overlay (canonical-channel-panel)"
+  "notes": "Guide search: 117s -> 76ms, and stop stealing focus from the box"
 }
