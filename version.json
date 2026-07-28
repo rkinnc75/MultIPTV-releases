@@ -1,8 +1,8 @@
 {
-  "versionCode": 230,
-  "versionName": "1.2.24",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.24/MultIPTV-1.2.24.apk",
-  "sha256": "949ece54a7fb96a8b58a23fe5cb206520b4a2dd01205ffbd320da86199339033",
+  "versionCode": 231,
+  "versionName": "1.2.25",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.25/MultIPTV-1.2.25.apk",
+  "sha256": "7737d924555a44ac5d2204ba9508843ab047fe23dec133aa58edec6d3a5b94e5",
   "minSdk": 23,
-  "notes": "Recordings: show start AND end time (plus duration)"
+  "notes": "Refresh: profile every phase of a catalogue refresh (fix029)"
 }
