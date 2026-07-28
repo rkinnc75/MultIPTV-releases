@@ -1,0 +1,8 @@
+{
+  "versionCode": 219,
+  "versionName": "1.2.13",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.13/MultIPTV-1.2.13-debug.apk",
+  "sha256": "01eceb770d32f2e0972b081c77babb4a4c18fb7794b53d02ee47ba9b05216758",
+  "minSdk": 23,
+  "notes": "Updater: give debug builds their own self-update channel"
+}
