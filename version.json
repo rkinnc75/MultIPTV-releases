@@ -1,8 +1,8 @@
 {
-  "versionCode": 231,
-  "versionName": "1.2.25",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.25/MultIPTV-1.2.25.apk",
-  "sha256": "7737d924555a44ac5d2204ba9508843ab047fe23dec133aa58edec6d3a5b94e5",
+  "versionCode": 232,
+  "versionName": "1.2.26",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.26/MultIPTV-1.2.26.apk",
+  "sha256": "2222dd272f303c06af832ed16ee3afb28aae338eb300ce4f1f007115ae8af7b0",
   "minSdk": 23,
-  "notes": "Refresh: profile every phase of a catalogue refresh (fix029)"
+  "notes": "Refresh: skip no-op writes, gate FTS rebuilds, instrument EPG (fix030)"
 }
