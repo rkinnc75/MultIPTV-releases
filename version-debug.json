@@ -1,8 +1,8 @@
 {
-  "versionCode": 225,
-  "versionName": "1.2.19",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.19/MultIPTV-1.2.19-debug.apk",
-  "sha256": "fd080ede86d0db6dd4568f59c2716c7d46fdcfa341e77de7d54b61d03efd1192",
+  "versionCode": 226,
+  "versionName": "1.2.20",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.20/MultIPTV-1.2.20-debug.apk",
+  "sha256": "a6aa15b2ed2908f3b6a6eca8b4ee375f4868cc2bdd698e4ced6d349ddcfe74f8",
   "minSdk": 23,
-  "notes": "Guide search: 117s -> 76ms, and stop stealing focus from the box"
+  "notes": "VOD: surface search-index failures, fix dead tiles, raise category limits"
 }
