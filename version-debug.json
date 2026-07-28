@@ -1,8 +1,8 @@
 {
-  "versionCode": 229,
-  "versionName": "1.2.23",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.23/MultIPTV-1.2.23-debug.apk",
-  "sha256": "72c67fd4997159dda2731558b4f16c03dbd696cc7c58011cdb7893ed018956f9",
+  "versionCode": 230,
+  "versionName": "1.2.24",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.24/MultIPTV-1.2.24-debug.apk",
+  "sha256": "61f47b6cbf197edd3979ded6d261c1964ae7129cf26c3193d08b4736b232edfb",
   "minSdk": 23,
-  "notes": "UI: neutral guide search box, app icon in the nav, tighter VOD titles"
+  "notes": "Recordings: show start AND end time (plus duration)"
 }
