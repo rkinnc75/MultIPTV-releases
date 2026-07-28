@@ -1,8 +1,8 @@
 {
-  "versionCode": 219,
-  "versionName": "1.2.13",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.13/MultIPTV-1.2.13.apk",
-  "sha256": "f0c32b69c3e98c44bb4290a0b5f1abd2399db05375e3677e01eb38e8ecd24f19",
+  "versionCode": 223,
+  "versionName": "1.2.17",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.17/MultIPTV-1.2.17.apk",
+  "sha256": "b7b43ed8f1eaae95414a7555b5bb1d74885e1917cc47ebae875a2ab0783a23a9",
   "minSdk": 23,
-  "notes": "Updater: give debug builds their own self-update channel"
+  "notes": "docs(mockups): keep the resolution chip on the channel-panel bar"
 }
