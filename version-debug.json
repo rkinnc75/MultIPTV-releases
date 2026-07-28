@@ -1,8 +1,8 @@
 {
-  "versionCode": 223,
-  "versionName": "1.2.17",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.17/MultIPTV-1.2.17-debug.apk",
-  "sha256": "5f3fa09c21622504c3d754f0b11a1f63a60b7ff9fa883a7036160bcb3723715e",
+  "versionCode": 224,
+  "versionName": "1.2.18",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.18/MultIPTV-1.2.18-debug.apk",
+  "sha256": "d979b687d6325a0bd6e9c964418afab88934d7414afda828c3c0a00cceacff53",
   "minSdk": 23,
-  "notes": "docs(mockups): keep the resolution chip on the channel-panel bar"
+  "notes": "Channel panel: rebuild as the bottom overlay (canonical-channel-panel)"
 }
