@@ -1,8 +1,8 @@
 {
-  "versionCode": 227,
-  "versionName": "1.2.21",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.21/MultIPTV-1.2.21-debug.apk",
-  "sha256": "57be2e465bc6d79115b485382267060d91d85993c3d5b3bc908e124e35c4f3cb",
+  "versionCode": 228,
+  "versionName": "1.2.22",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.22/MultIPTV-1.2.22-debug.apk",
+  "sha256": "ab4c7a89385f9ef0fb61f129c42d3a1872f6a5360f535218c9f71a3affddd45b",
   "minSdk": 23,
-  "notes": "VOD: build category rails lazily; keep nav taps off the video tap target"
+  "notes": "Channel panel: visual pass — gaps, halved spacing, glass parity, source pill"
 }
