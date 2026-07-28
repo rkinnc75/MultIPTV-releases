@@ -1,8 +1,8 @@
 {
-  "versionCode": 218,
-  "versionName": "1.2.12",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.12/MultIPTV-1.2.12.apk",
-  "sha256": "eaca3a6df68f359a281f3fdbe90940617b89d08248828f6283a9cae6de9c7cab",
+  "versionCode": 219,
+  "versionName": "1.2.13",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.13/MultIPTV-1.2.13.apk",
+  "sha256": "f0c32b69c3e98c44bb4290a0b5f1abd2399db05375e3677e01eb38e8ecd24f19",
   "minSdk": 23,
-  "notes": "Focus lift: never scale full-screen surfaces (the EPG stops moving)"
+  "notes": "Updater: give debug builds their own self-update channel"
 }
