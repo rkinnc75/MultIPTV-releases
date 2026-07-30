@@ -1,8 +1,8 @@
 {
-  "versionCode": 240,
-  "versionName": "1.2.34",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.34/MultIPTV-1.2.34-debug.apk",
-  "sha256": "c16a17be3036a5afe70d0d45f39311412b63cb9604cda14a26f5cf3fa5f2b148",
+  "versionCode": 241,
+  "versionName": "1.2.35",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.35/MultIPTV-1.2.35-debug.apk",
+  "sha256": "9ba44a3d6b53be2decaf168d2d5b467b4cb07595864e9eafdd1d5712e98adabb",
   "minSdk": 23,
-  "notes": "Search: stop the padding-box clip slicing the first character (fix039)"
+  "notes": "Movies/Series: per-catalogue search that filters the rails in place (fix040)"
 }
