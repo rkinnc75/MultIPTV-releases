@@ -1,8 +1,8 @@
 {
-  "versionCode": 244,
-  "versionName": "1.2.38",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.38/MultIPTV-1.2.38.apk",
-  "sha256": "233c1d8a84b47640592dc3711e5225005103aa8c6930dbc169b8aee407a2430e",
+  "versionCode": 245,
+  "versionName": "1.2.39",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.39/MultIPTV-1.2.39.apk",
+  "sha256": "85016b8b244b83213dd3c3d83f7864561932494445f56b54739ba8ae06fd335b",
   "minSdk": 23,
-  "notes": "EPG/Backup: drop programme FTS triggers for the sync + Free4Me import (fix043)"
+  "notes": "Instrumentation: fix three misleading measurements (fix044)"
 }
