@@ -1,8 +1,8 @@
 {
-  "versionCode": 237,
-  "versionName": "1.2.31",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.31/MultIPTV-1.2.31-debug.apk",
-  "sha256": "f17718d79bde8d4aaeef11bd17baf7804404042fa39e1f97f9b7c5588aa17188",
+  "versionCode": 238,
+  "versionName": "1.2.32",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.32/MultIPTV-1.2.32-debug.apk",
+  "sha256": "75fa82e94a482a93870e06e5b3f7557b586df37e3915b9a8e8525d6e9e8b9b4f",
   "minSdk": 23,
-  "notes": "EPG: batch the tvg bindings, time the wipe and post-sync work (fix034)"
+  "notes": "Search: rank FTS results by relevance instead of alphabetically (fix036)"
 }
