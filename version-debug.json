@@ -1,8 +1,8 @@
 {
-  "versionCode": 234,
-  "versionName": "1.2.28",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.28/MultIPTV-1.2.28-debug.apk",
-  "sha256": "b5d28b0478fb67e6758c3bbc9c0d1939d8ebd98409974985abc9021b06ccbf0d",
+  "versionCode": 235,
+  "versionName": "1.2.29",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.29/MultIPTV-1.2.29-debug.apk",
+  "sha256": "a96115bc88b48ef4999667f5c05724c4997c23976617183f5d173444f43e2c9e",
   "minSdk": 23,
-  "notes": "Visual: wire the six accent gradient pairs, tier-gate live blur"
+  "notes": "Refresh: stop provider reordering from rewriting the VOD catalogue (fix032)"
 }
