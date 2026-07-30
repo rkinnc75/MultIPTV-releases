@@ -1,8 +1,8 @@
 {
-  "versionCode": 239,
-  "versionName": "1.2.33",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.33/MultIPTV-1.2.33.apk",
-  "sha256": "4737f0e8ab99734a442e127e00737dc4edae1ac5c4502bdbc7d870a431501342",
+  "versionCode": 240,
+  "versionName": "1.2.34",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.34/MultIPTV-1.2.34.apk",
+  "sha256": "d34bc404788292014f2882442c8812b98195b24bd0a3332e5384d28b3c63f016",
   "minSdk": 23,
-  "notes": "History: render recents as the EPG grid; fix Search overlay stacking"
+  "notes": "Search: stop the padding-box clip slicing the first character (fix039)"
 }
