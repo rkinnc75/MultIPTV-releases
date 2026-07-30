@@ -1,8 +1,8 @@
 {
-  "versionCode": 241,
-  "versionName": "1.2.35",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.35/MultIPTV-1.2.35.apk",
-  "sha256": "080750cad7a3bd21c6b99a1050355132e731d1d535b9bc69f42ad4d682b9b34f",
+  "versionCode": 242,
+  "versionName": "1.2.36",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.36/MultIPTV-1.2.36.apk",
+  "sha256": "e60b7de6ac5b9d6a2ca5cdd578a64f3174bf4eadabf94cc683d74f63950f1862",
   "minSdk": 23,
-  "notes": "Movies/Series: per-catalogue search that filters the rails in place (fix040)"
+  "notes": "Search: one tile grid for Live, Movies and Series (fix041)"
 }
