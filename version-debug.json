@@ -1,8 +1,8 @@
 {
-  "versionCode": 235,
-  "versionName": "1.2.29",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.29/MultIPTV-1.2.29-debug.apk",
-  "sha256": "a96115bc88b48ef4999667f5c05724c4997c23976617183f5d173444f43e2c9e",
+  "versionCode": 236,
+  "versionName": "1.2.30",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.30/MultIPTV-1.2.30-debug.apk",
+  "sha256": "bd242b5eb484ef974007c9dea2c6642988a961c35320bd36230c3f1cfc929f1e",
   "minSdk": 23,
-  "notes": "Refresh: stop provider reordering from rewriting the VOD catalogue (fix032)"
+  "notes": "EPG: stop rebuilding a date formatter twice per programme (fix033)"
 }
