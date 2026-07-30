@@ -1,8 +1,8 @@
 {
-  "versionCode": 245,
-  "versionName": "1.2.39",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.39/MultIPTV-1.2.39-debug.apk",
-  "sha256": "9a549ac90ac14e7fa8a7a7c2df8d7bde388587337eda8b4b0b47fda3a034e449",
+  "versionCode": 246,
+  "versionName": "1.2.40",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.40/MultIPTV-1.2.40-debug.apk",
+  "sha256": "3f907bb166765699a906cef0689c7638ffc1014856dd5f00e45f7541ebeb569f",
   "minSdk": 23,
-  "notes": "Instrumentation: fix three misleading measurements (fix044)"
+  "notes": "Catch-up: dismiss the OSD, split the sleep warning, probe the 404 (fix045)"
 }
