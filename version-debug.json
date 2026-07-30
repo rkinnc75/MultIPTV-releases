@@ -1,8 +1,8 @@
 {
-  "versionCode": 236,
-  "versionName": "1.2.30",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.30/MultIPTV-1.2.30-debug.apk",
-  "sha256": "bd242b5eb484ef974007c9dea2c6642988a961c35320bd36230c3f1cfc929f1e",
+  "versionCode": 237,
+  "versionName": "1.2.31",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.31/MultIPTV-1.2.31-debug.apk",
+  "sha256": "f17718d79bde8d4aaeef11bd17baf7804404042fa39e1f97f9b7c5588aa17188",
   "minSdk": 23,
-  "notes": "EPG: stop rebuilding a date formatter twice per programme (fix033)"
+  "notes": "EPG: batch the tvg bindings, time the wipe and post-sync work (fix034)"
 }
