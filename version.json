@@ -1,8 +1,8 @@
 {
-  "versionCode": 242,
-  "versionName": "1.2.36",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.36/MultIPTV-1.2.36.apk",
-  "sha256": "e60b7de6ac5b9d6a2ca5cdd578a64f3174bf4eadabf94cc683d74f63950f1862",
+  "versionCode": 243,
+  "versionName": "1.2.37",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.37/MultIPTV-1.2.37.apk",
+  "sha256": "18a621c948b81ae4ceb9cd1dad8cb18167ff508a3b923d594a3da96183e323c4",
   "minSdk": 23,
-  "notes": "Search: one tile grid for Live, Movies and Series (fix041)"
+  "notes": "Playback: don't tear down streams that healed during backoff (fix042)"
 }
