@@ -1,8 +1,8 @@
 {
-  "versionCode": 260,
-  "versionName": "1.2.54",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.54/MultIPTV-1.2.54.apk",
-  "sha256": "9f09f4fb06bdba95d9b445dcd93ef6ed1cec3d002ff89f39e28afe75029362ad",
+  "versionCode": 261,
+  "versionName": "1.2.55",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.55/MultIPTV-1.2.55.apk",
+  "sha256": "566cc2deba7330ac7a1e3fbea4f67c9aa56c5b1c2b73301904ac53d1afe3f000",
   "minSdk": 23,
-  "notes": "docs: bring Ground Zero up to HEAD, and make that a rule (§5c)"
+  "notes": "docs: re-confirm the 37 open findings — 9 were already built"
 }
