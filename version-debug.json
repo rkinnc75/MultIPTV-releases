@@ -1,8 +1,8 @@
 {
-  "versionCode": 257,
-  "versionName": "1.2.51",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.51/MultIPTV-1.2.51-debug.apk",
-  "sha256": "c58a741b48d6795614d863822a72c351a7f7ba880586850ded4ac9521b4143a3",
+  "versionCode": 258,
+  "versionName": "1.2.52",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.52/MultIPTV-1.2.52-debug.apk",
+  "sha256": "e2e5d11be6cd253e993904e5cf5312b62dc2fbaa76866aa8c9d8c141360b050b",
   "minSdk": 23,
-  "notes": "docs: clear the stale Tier 1 backlog — all six were already built"
+  "notes": "EPG: let the user assign guide listings by hand (F24)"
 }
