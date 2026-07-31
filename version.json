@@ -1,8 +1,8 @@
 {
-  "versionCode": 261,
-  "versionName": "1.2.55",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.55/MultIPTV-1.2.55.apk",
-  "sha256": "566cc2deba7330ac7a1e3fbea4f67c9aa56c5b1c2b73301904ac53d1afe3f000",
+  "versionCode": 265,
+  "versionName": "1.2.59",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.59/MultIPTV-1.2.59.apk",
+  "sha256": "ba0bf09f318e03dfa81b0fd2fe3333939cfdb6ad7242dca98cbb84cb6dd33b99",
   "minSdk": 23,
-  "notes": "docs: re-confirm the 37 open findings — 9 were already built"
+  "notes": "docs: GZ §6e — EPG shift layer, and the three items awaiting a decision"
 }
