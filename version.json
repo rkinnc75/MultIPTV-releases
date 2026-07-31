@@ -1,8 +1,8 @@
 {
-  "versionCode": 249,
-  "versionName": "1.2.43",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.43/MultIPTV-1.2.43.apk",
-  "sha256": "edd09c8a1dea5a15d2ccc7b7f234f15220b7202b77903c947807cc16327bb981",
+  "versionCode": 250,
+  "versionName": "1.2.44",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.44/MultIPTV-1.2.44.apk",
+  "sha256": "1dbbccbc7fb050b167c7f99927e7e875428421ff38692b07a56e7268e1879080",
   "minSdk": 23,
-  "notes": "Catch-up: round the timeshift stamp to the nearest minute (fix047)"
+  "notes": "Catch-up: fail to live with a reason, and stop offering dead archives (fix048)"
 }
