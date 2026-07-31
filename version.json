@@ -1,8 +1,8 @@
 {
-  "versionCode": 252,
-  "versionName": "1.2.46",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.46/MultIPTV-1.2.46.apk",
-  "sha256": "2b63f922b9f311b1ee139a0516180c5d12df09cf1ca0ea8e5f8d507cd986bb15",
+  "versionCode": 253,
+  "versionName": "1.2.47",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.47/MultIPTV-1.2.47.apk",
+  "sha256": "c83d1d83cc10214715e388cebe7dbb0613b874fd48c566cdf11c07a88ae586c4",
   "minSdk": 23,
-  "notes": "Catch-up: give the offset column the UI it never had (fix050)"
+  "notes": "docs: log F71 — guide should reopen where you left it (owner-reported)"
 }
