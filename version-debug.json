@@ -1,8 +1,8 @@
 {
-  "versionCode": 248,
-  "versionName": "1.2.42",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.42/MultIPTV-1.2.42-debug.apk",
-  "sha256": "5df8367baa4013583f3fb79a766b3182a05b83e8a7d4faeeae90d45da32f37c1",
+  "versionCode": 249,
+  "versionName": "1.2.43",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.43/MultIPTV-1.2.43-debug.apk",
+  "sha256": "188e4d7254d2e0fbc988020c84798b38c5bc7df81bdf1352b7ef70e291f322d2",
   "minSdk": 23,
-  "notes": "Categories: the projection debounce was too short to coalesce anything"
+  "notes": "Catch-up: round the timeshift stamp to the nearest minute (fix047)"
 }
