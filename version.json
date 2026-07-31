@@ -1,8 +1,8 @@
 {
-  "versionCode": 246,
-  "versionName": "1.2.40",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.40/MultIPTV-1.2.40.apk",
-  "sha256": "e032df6ff2cbf688ac612694702c541c53d3bde2ddcada3750bef9f600d8be7c",
+  "versionCode": 248,
+  "versionName": "1.2.42",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.42/MultIPTV-1.2.42.apk",
+  "sha256": "e03e62edbfb84232ceb5ed51a79894884e4d98a9639f7ad597fdf1f64f5a650f",
   "minSdk": 23,
-  "notes": "Catch-up: dismiss the OSD, split the sleep warning, probe the 404 (fix045)"
+  "notes": "Categories: the projection debounce was too short to coalesce anything"
 }
