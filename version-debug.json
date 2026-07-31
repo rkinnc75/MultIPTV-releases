@@ -1,8 +1,8 @@
 {
-  "versionCode": 250,
-  "versionName": "1.2.44",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.44/MultIPTV-1.2.44-debug.apk",
-  "sha256": "678f68103407fe5eda00fa71b8527a947d58dfdf3c92a08efdc88d640306ccbc",
+  "versionCode": 251,
+  "versionName": "1.2.45",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.45/MultIPTV-1.2.45-debug.apk",
+  "sha256": "18d16a78cca5d8251f3c74798d43dfba64a976d2da9378133069308ffadd2987",
   "minSdk": 23,
-  "notes": "Catch-up: fail to live with a reason, and stop offering dead archives (fix048)"
+  "notes": "Catch-up: this panel wants timeshift.php, not the path form (fix049)"
 }
