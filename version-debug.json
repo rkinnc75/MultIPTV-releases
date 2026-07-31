@@ -1,8 +1,8 @@
 {
-  "versionCode": 259,
-  "versionName": "1.2.53",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.53/MultIPTV-1.2.53-debug.apk",
-  "sha256": "91e9b1bacf683f36c67805b3e8190cdf11e1140e51bc8a1f426b93db1cd55fd4",
+  "versionCode": 260,
+  "versionName": "1.2.54",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.54/MultIPTV-1.2.54-debug.apk",
+  "sha256": "2dc0cc4870c46ee4d0b9b8a5ab2394a2029bdc9316bde2d057db86f7ac9cf41c",
   "minSdk": 23,
-  "notes": "Catch-up: believe a URL form only after it plays (fix053)"
+  "notes": "docs: bring Ground Zero up to HEAD, and make that a rule (§5c)"
 }
