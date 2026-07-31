@@ -1,8 +1,8 @@
 {
-  "versionCode": 254,
-  "versionName": "1.2.48",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.48/MultIPTV-1.2.48.apk",
-  "sha256": "681dbe97c33a4580bba23a537ddc4d8495339439f3f403c540fdf71c617add56",
+  "versionCode": 257,
+  "versionName": "1.2.51",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.51/MultIPTV-1.2.51.apk",
+  "sha256": "fc3c7221c5d8f83b064cce347343c619a9cc5750019cb34b6393387b47f32eb1",
   "minSdk": 23,
-  "notes": "Guide: reopen where you left it, not on the categories (F71)"
+  "notes": "docs: clear the stale Tier 1 backlog — all six were already built"
 }
