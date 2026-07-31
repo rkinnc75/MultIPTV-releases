@@ -1,8 +1,8 @@
 {
-  "versionCode": 251,
-  "versionName": "1.2.45",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.45/MultIPTV-1.2.45.apk",
-  "sha256": "fb6a3725dde51be40f8d29db7741cbb19c6d514bbefdaf6d2853b75cc1a4e38f",
+  "versionCode": 252,
+  "versionName": "1.2.46",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.46/MultIPTV-1.2.46.apk",
+  "sha256": "2b63f922b9f311b1ee139a0516180c5d12df09cf1ca0ea8e5f8d507cd986bb15",
   "minSdk": 23,
-  "notes": "Catch-up: this panel wants timeshift.php, not the path form (fix049)"
+  "notes": "Catch-up: give the offset column the UI it never had (fix050)"
 }
