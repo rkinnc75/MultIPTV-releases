@@ -1,8 +1,8 @@
 {
-  "versionCode": 272,
-  "versionName": "1.2.66",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.66/MultIPTV-1.2.66.apk",
-  "sha256": "5602e8e2eff035d9f2a41e3d2edfb0ef180535cfe85ea3833b54dc98fd61db50",
+  "versionCode": 273,
+  "versionName": "1.2.67",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.67/MultIPTV-1.2.67.apk",
+  "sha256": "37e3d5500bc30f8f876ab52423318319336f3833cf2908eac83cb256c11c7094",
   "minSdk": 23,
-  "notes": "docs: close F15/F23/F51 (fix057), GZ §6h"
+  "notes": "docs: record the four owner decisions (F60/F40/F54/F70)"
 }
