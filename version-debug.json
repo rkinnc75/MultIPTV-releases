@@ -1,8 +1,8 @@
 {
-  "versionCode": 270,
-  "versionName": "1.2.64",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.64/MultIPTV-1.2.64-debug.apk",
-  "sha256": "da824628475439b015e87ef0f8c084a8f288bef8c6260116c85d3c62a8ab516e",
+  "versionCode": 272,
+  "versionName": "1.2.66",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.66/MultIPTV-1.2.66-debug.apk",
+  "sha256": "d8b2cf0d03f8e5aa413ff27ed1d9042250bb6fb71be658b6f8d9f289825ee660",
   "minSdk": 23,
-  "notes": "docs: GZ §6g — fix056 and the WorkManager foreground-service trap"
+  "notes": "docs: close F15/F23/F51 (fix057), GZ §6h"
 }
