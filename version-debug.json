@@ -1,8 +1,8 @@
 {
-  "versionCode": 273,
-  "versionName": "1.2.67",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.67/MultIPTV-1.2.67-debug.apk",
-  "sha256": "253f9fffe51bc492bbad6f05630fc9f7052d7143ba7ad92432f98692ed03c7c6",
+  "versionCode": 274,
+  "versionName": "1.2.68",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.68/MultIPTV-1.2.68-debug.apk",
+  "sha256": "cf119d514a977cec5c3b25dbf9b1b0cd16e4b65fe3c95f098571408a369f825c",
   "minSdk": 23,
-  "notes": "docs: record the four owner decisions (F60/F40/F54/F70)"
+  "notes": "Channels: hide a channel, and a way to get it back (F67, hide half)"
 }
