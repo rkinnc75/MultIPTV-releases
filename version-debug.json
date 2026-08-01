@@ -1,8 +1,8 @@
 {
-  "versionCode": 267,
-  "versionName": "1.2.61",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.61/MultIPTV-1.2.61-debug.apk",
-  "sha256": "60730601f78697e08096d7a88649285ed78b514ec13d8431002329a81ae0d01f",
+  "versionCode": 268,
+  "versionName": "1.2.62",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.62/MultIPTV-1.2.62-debug.apk",
+  "sha256": "0f3b0d668588ad4cbefc4b0d241dd14a0e442dac79109dba6a2fba84dbf83ff0",
   "minSdk": 23,
-  "notes": "docs: GZ §6f — fix054/fix055, and the backup as an offline test bed"
+  "notes": "docs: fix054/fix055 verified on the onn — correcting the commits"
 }
