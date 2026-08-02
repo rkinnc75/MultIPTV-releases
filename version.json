@@ -1,8 +1,8 @@
 {
-  "versionCode": 296,
-  "versionName": "1.2.90",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.90/MultIPTV-1.2.90.apk",
-  "sha256": "2df8c8f30068bca797941f9c2342c54619607ad72cc5c154099b76eb562c3820",
+  "versionCode": 297,
+  "versionName": "1.2.91",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.91/MultIPTV-1.2.91.apk",
+  "sha256": "569f3ab974bcd00fb330d3da0af892a7c12b11b3e9ee5fdd65e367ce3470bb20",
   "minSdk": 23,
-  "notes": "Source accents on the category rail, and rebuild it when prefs change (F80/F81)"
+  "notes": "OK on a channel tile did nothing once the clock crossed a :00 or :30 (F82)"
 }
