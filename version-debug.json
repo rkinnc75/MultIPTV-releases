@@ -1,8 +1,8 @@
 {
-  "versionCode": 311,
-  "versionName": "1.3.5",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.5/MultIPTV-1.3.5-debug.apk",
-  "sha256": "88f897833b6d925a3cb2d5ea5b037695c001eecae03c93cc079fa84a6d873a0f",
+  "versionCode": 312,
+  "versionName": "1.3.6",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.6/MultIPTV-1.3.6-debug.apk",
+  "sha256": "05480239ecc43558af7afab58086091965c82de1e39636eaac338a220e89882b",
   "minSdk": 23,
-  "notes": "Every focused list row was a solid block, not a ring (F95)"
+  "notes": "Refresh All ran the sources in parallel; serialize them (F96)"
 }
