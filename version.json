@@ -1,8 +1,8 @@
 {
-  "versionCode": 298,
-  "versionName": "1.2.92",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.92/MultIPTV-1.2.92.apk",
-  "sha256": "8da669e307b13966eaa22e49786342f3760c10a020f046b2b0efc79858f2e304",
+  "versionCode": 299,
+  "versionName": "1.2.93",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.93/MultIPTV-1.2.93.apk",
+  "sha256": "48f517d5f73305810317ff328e04827c0a139db90bde84c1dfdbd84a452ad0de",
   "minSdk": 23,
-  "notes": "The hero showed a new title over the previous film's content (F83)"
+  "notes": "Per-source category keys and their migration, not yet wired (F84, 1/2)"
 }
