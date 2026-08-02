@@ -1,8 +1,8 @@
 {
-  "versionCode": 274,
-  "versionName": "1.2.68",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.68/MultIPTV-1.2.68-debug.apk",
-  "sha256": "cf119d514a977cec5c3b25dbf9b1b0cd16e4b65fe3c95f098571408a369f825c",
+  "versionCode": 275,
+  "versionName": "1.2.69",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.69/MultIPTV-1.2.69-debug.apk",
+  "sha256": "8f5c5786605388cd44501109eb8fa52ed8ea89b53298def0fc3b3754317c214a",
   "minSdk": 23,
-  "notes": "Channels: hide a channel, and a way to get it back (F67, hide half)"
+  "notes": "Channels: hide adult content, on by default (F71b)"
 }
