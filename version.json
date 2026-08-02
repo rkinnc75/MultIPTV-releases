@@ -1,8 +1,8 @@
 {
-  "versionCode": 278,
-  "versionName": "1.2.72",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.72/MultIPTV-1.2.72.apk",
-  "sha256": "d47a2f1146a09936862283904fcbeca9eb3ce3b447e73975b9ab889df59811e3",
+  "versionCode": 279,
+  "versionName": "1.2.73",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.73/MultIPTV-1.2.73.apk",
+  "sha256": "bcd17e218db5df70265e9194243bca6a0a0f94a32d495bcb44f5bcc06698567a",
   "minSdk": 23,
-  "notes": "Sources: show a source's details and let them be corrected (F72)"
+  "notes": "Sources: mask the password, with a reveal toggle (F72)"
 }
