@@ -1,8 +1,8 @@
 {
-  "versionCode": 305,
-  "versionName": "1.2.99",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.99/MultIPTV-1.2.99.apk",
-  "sha256": "3e3c8b26106da73a869847597a86ed384adb81108bf68ee4c3fe1c86903f76f7",
+  "versionCode": 306,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.0/MultIPTV-1.3.0.apk",
+  "sha256": "b2b0a1ad1ac4d75712bcfdf30c2c4f8b3b4c1c020e9673b3d48da22ef171d141",
   "minSdk": 23,
-  "notes": "Move everything left onto one safe-margin knob (F90)"
+  "notes": "Focus rings were clipped on three sides and washed out (F91)"
 }
