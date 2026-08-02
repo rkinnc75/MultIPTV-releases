@@ -1,8 +1,8 @@
 {
-  "versionCode": 317,
-  "versionName": "1.3.11",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.11/MultIPTV-1.3.11.apk",
-  "sha256": "8cce1554c240a8c23f707be581e4c58467d3f8eec0dc90697ce0b09e835e5032",
+  "versionCode": 318,
+  "versionName": "1.3.12",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.12/MultIPTV-1.3.12.apk",
+  "sha256": "c39d1bce0a086af28e9d7c581e72d5bfb67a35fee04e0f7f7abf9a701feb243d",
   "minSdk": 23,
-  "notes": "Declare the enrichment precedence matrix in one place (F99)"
+  "notes": "Route the detail through the matrix, and remember recent searches (F99/F100)"
 }
