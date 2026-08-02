@@ -1,8 +1,8 @@
 {
-  "versionCode": 302,
-  "versionName": "1.2.96",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.96/MultIPTV-1.2.96.apk",
-  "sha256": "fc7a86e6f1d484ed54fd2db9b033e26097306b38170a613bb48924b086780431",
+  "versionCode": 305,
+  "versionName": "1.2.99",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.99/MultIPTV-1.2.99.apk",
+  "sha256": "3e3c8b26106da73a869847597a86ed384adb81108bf68ee4c3fe1c86903f76f7",
   "minSdk": 23,
-  "notes": "A source scope in the category manager (F88)"
+  "notes": "Move everything left onto one safe-margin knob (F90)"
 }
