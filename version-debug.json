@@ -1,8 +1,8 @@
 {
-  "versionCode": 286,
-  "versionName": "1.2.80",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.80/MultIPTV-1.2.80-debug.apk",
-  "sha256": "857a5b2af662447e205b489dd87871c6519398ed08d499fbb5da19bb2631ad60",
+  "versionCode": 287,
+  "versionName": "1.2.81",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.81/MultIPTV-1.2.81-debug.apk",
+  "sha256": "8c3e5a39e2b9ef30b2214e32897957f20b6bfa5809f2787806fd78f0407b0a91",
   "minSdk": 23,
-  "notes": "VOD: the search box trapped focus, and finished searches re-ran (F73)"
+  "notes": "VOD: playback had no transport controls — focus stayed behind the video (F74)"
 }
