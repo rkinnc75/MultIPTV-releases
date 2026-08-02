@@ -1,8 +1,8 @@
 {
-  "versionCode": 288,
-  "versionName": "1.2.82",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.82/MultIPTV-1.2.82.apk",
-  "sha256": "e0eb76f521eb8efe226738cad8eb45acd0323970d05b51db21ffcd7c7da19090",
+  "versionCode": 290,
+  "versionName": "1.2.84",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.84/MultIPTV-1.2.84.apk",
+  "sha256": "05903f0bd5eb50151ae12d59028e6b5f2b761a0271baf07f129ea7338e5b7c8b",
   "minSdk": 23,
-  "notes": "Guide: the category rail wraps; the channel grid does not (F54)"
+  "notes": "docs: close F54/F40, GZ §6n — decisions that needed adjusting"
 }
