@@ -1,8 +1,8 @@
 {
-  "versionCode": 293,
-  "versionName": "1.2.87",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.87/MultIPTV-1.2.87-debug.apk",
-  "sha256": "9da331063b6e8393f44ec438b4bd397ab29c0f837d5d7ac6cce7d3192277baa8",
+  "versionCode": 295,
+  "versionName": "1.2.89",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.89/MultIPTV-1.2.89-debug.apk",
+  "sha256": "7e53430ee9706d10f583036a2f63a79161a483fe01c213f6b3ab49386f13597c",
   "minSdk": 23,
-  "notes": "Category pickers open over Settings instead of jumping to the player (F76)"
+  "notes": "Say when a source stored nothing because its categories are hidden (F79)"
 }
