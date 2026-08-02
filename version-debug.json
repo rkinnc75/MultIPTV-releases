@@ -1,8 +1,8 @@
 {
-  "versionCode": 291,
-  "versionName": "1.2.85",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.85/MultIPTV-1.2.85-debug.apk",
-  "sha256": "f62bdf1f72270a0de9df6a38cce341c4148641087c8d2236842dd00b23391b83",
+  "versionCode": 292,
+  "versionName": "1.2.86",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.86/MultIPTV-1.2.86-debug.apk",
+  "sha256": "3b62280f8426a2a89aff0068d8f797c14061fa2e30b906cb674ab7fd503b3e3e",
   "minSdk": 23,
-  "notes": "Hidden categories are no longer stored, and stale rows expire (F75)"
+  "notes": "In-app Help, with the hint row it hangs off finally on screen (fix059)"
 }
