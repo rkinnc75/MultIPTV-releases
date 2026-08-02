@@ -1,8 +1,8 @@
 {
-  "versionCode": 275,
-  "versionName": "1.2.69",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.69/MultIPTV-1.2.69-debug.apk",
-  "sha256": "8f5c5786605388cd44501109eb8fa52ed8ea89b53298def0fc3b3754317c214a",
+  "versionCode": 276,
+  "versionName": "1.2.70",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.70/MultIPTV-1.2.70-debug.apk",
+  "sha256": "87f41b411b0f13e26701ef571406eef49fc34ac775c0cb9d8770b76a21adbcfd",
   "minSdk": 23,
-  "notes": "Channels: hide adult content, on by default (F71b)"
+  "notes": "Channels: the adult filter cannot rely on is_adult alone (F71b)"
 }
