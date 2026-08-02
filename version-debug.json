@@ -1,8 +1,8 @@
 {
-  "versionCode": 287,
-  "versionName": "1.2.81",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.81/MultIPTV-1.2.81-debug.apk",
-  "sha256": "8c3e5a39e2b9ef30b2214e32897957f20b6bfa5809f2787806fd78f0407b0a91",
+  "versionCode": 288,
+  "versionName": "1.2.82",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.82/MultIPTV-1.2.82-debug.apk",
+  "sha256": "49fb6a0eee141e6a2dfa36954f19c7b8386e4ab38fe2ca4eb405b5905ed94476",
   "minSdk": 23,
-  "notes": "VOD: playback had no transport controls — focus stayed behind the video (F74)"
+  "notes": "Guide: the category rail wraps; the channel grid does not (F54)"
 }
