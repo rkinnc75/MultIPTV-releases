@@ -1,8 +1,8 @@
 {
-  "versionCode": 308,
-  "versionName": "1.3.2",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.2/MultIPTV-1.3.2.apk",
-  "sha256": "7d6eda36995f7fd16b1f0c0665003e4e9b27792fd7b900e491acc6af5d866e96",
+  "versionCode": 309,
+  "versionName": "1.3.3",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.3/MultIPTV-1.3.3.apk",
+  "sha256": "546ec427b3bd581d817b5093cddbef3d187c58d0402d01852c18ce085795d896",
   "minSdk": 23,
-  "notes": "Zero the banner-to-grid clearance (F92 follow-up)"
+  "notes": "The rest of the clipped focus rings, and a Play that played nothing (F93)"
 }
