@@ -1,8 +1,8 @@
 {
-  "versionCode": 313,
-  "versionName": "1.3.7",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.7/MultIPTV-1.3.7-debug.apk",
-  "sha256": "1ca26a104e4b82ba63cc0946a1bc848337b755824f8ff46407190a20a5e336f4",
+  "versionCode": 314,
+  "versionName": "1.3.8",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.8/MultIPTV-1.3.8-debug.apk",
+  "sha256": "3c6188932755822a9264ca7526fee48ae8a6da2d62da02089923de5226e1ef7a",
   "minSdk": 23,
-  "notes": "docs: F79 confirmed on the TCL"
+  "notes": "Hide the series Play/star row before the first frame, not after (F93 follow-up)"
 }
