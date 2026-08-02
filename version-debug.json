@@ -1,8 +1,8 @@
 {
-  "versionCode": 309,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.3/MultIPTV-1.3.3-debug.apk",
-  "sha256": "4c6ed05941207ac4251130f6f30057164992f2bfd7507228fee72fcd5512727e",
+  "versionCode": 310,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.4/MultIPTV-1.3.4-debug.apk",
+  "sha256": "5901d9fd6f8538c1b0aea5cb13322687e5970539af850614c6424482aef879d4",
   "minSdk": 23,
-  "notes": "The rest of the clipped focus rings, and a Play that played nothing (F93)"
+  "notes": "Category managers sort enabled first, then alphabetical (F94)"
 }
