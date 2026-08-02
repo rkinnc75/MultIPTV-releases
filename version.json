@@ -1,8 +1,8 @@
 {
-  "versionCode": 301,
-  "versionName": "1.2.95",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.95/MultIPTV-1.2.95.apk",
-  "sha256": "912e41a93bbea80754060b86e96667d2d8a15e424d705dea9cd05f4478720dc3",
+  "versionCode": 302,
+  "versionName": "1.2.96",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.96/MultIPTV-1.2.96.apk",
+  "sha256": "fc7a86e6f1d484ed54fd2db9b033e26097306b38170a613bb48924b086780431",
   "minSdk": 23,
-  "notes": "A guard so the next forgotten user-state column fails a test (F87 follow-up)"
+  "notes": "A source scope in the category manager (F88)"
 }
