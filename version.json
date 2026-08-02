@@ -1,8 +1,8 @@
 {
-  "versionCode": 297,
-  "versionName": "1.2.91",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.91/MultIPTV-1.2.91.apk",
-  "sha256": "569f3ab974bcd00fb330d3da0af892a7c12b11b3e9ee5fdd65e367ce3470bb20",
+  "versionCode": 298,
+  "versionName": "1.2.92",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.92/MultIPTV-1.2.92.apk",
+  "sha256": "8da669e307b13966eaa22e49786342f3760c10a020f046b2b0efc79858f2e304",
   "minSdk": 23,
-  "notes": "OK on a channel tile did nothing once the clock crossed a :00 or :30 (F82)"
+  "notes": "The hero showed a new title over the previous film's content (F83)"
 }
