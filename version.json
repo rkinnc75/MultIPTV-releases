@@ -1,8 +1,8 @@
 {
-  "versionCode": 292,
-  "versionName": "1.2.86",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.86/MultIPTV-1.2.86.apk",
-  "sha256": "a136e50139365a534478203a89fa3735f223b5f7dbf23f88fbe7b68e2b824ff4",
+  "versionCode": 293,
+  "versionName": "1.2.87",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.87/MultIPTV-1.2.87.apk",
+  "sha256": "9bd8643fb3506b026e1f3d033e2f780f8e5c67d2a5a19a5ba5098843b585da59",
   "minSdk": 23,
-  "notes": "In-app Help, with the hint row it hangs off finally on screen (fix059)"
+  "notes": "Category pickers open over Settings instead of jumping to the player (F76)"
 }
