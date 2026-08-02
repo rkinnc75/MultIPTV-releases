@@ -1,8 +1,8 @@
 {
-  "versionCode": 283,
-  "versionName": "1.2.77",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.77/MultIPTV-1.2.77-debug.apk",
-  "sha256": "d7bddaa044073e3d7aeb28f5bc7ddf5dc5e81c304bafe55860b99764a3b5eda4",
+  "versionCode": 285,
+  "versionName": "1.2.79",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.79/MultIPTV-1.2.79-debug.apk",
+  "sha256": "1d271d840b88d5eeda3b44c53d792fbaa48e32118e913c46c3ed9ec2357a7c23",
   "minSdk": 23,
-  "notes": "docs: close F66, GZ §6l — the lazy-options-row trap"
+  "notes": "docs: close F67, GZ §6m — costs-nothing-when-unused, and always ship the way back"
 }
