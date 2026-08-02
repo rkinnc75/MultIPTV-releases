@@ -1,8 +1,8 @@
 {
-  "versionCode": 295,
-  "versionName": "1.2.89",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.89/MultIPTV-1.2.89-debug.apk",
-  "sha256": "7e53430ee9706d10f583036a2f63a79161a483fe01c213f6b3ab49386f13597c",
+  "versionCode": 296,
+  "versionName": "1.2.90",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.90/MultIPTV-1.2.90-debug.apk",
+  "sha256": "fb908ff4cbb42c841184afd81ef1dfa921a1892570d9a3a95685050990a3d28f",
   "minSdk": 23,
-  "notes": "Say when a source stored nothing because its categories are hidden (F79)"
+  "notes": "Source accents on the category rail, and rebuild it when prefs change (F80/F81)"
 }
