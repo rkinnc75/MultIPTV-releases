@@ -1,8 +1,8 @@
 {
-  "versionCode": 285,
-  "versionName": "1.2.79",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.79/MultIPTV-1.2.79.apk",
-  "sha256": "35799437d1f6b57668e0cdd7515ef57c662716d1e2be2b6839cc5dbea5a28225",
+  "versionCode": 286,
+  "versionName": "1.2.80",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.2.80/MultIPTV-1.2.80.apk",
+  "sha256": "3cd73167f0b2e351df02f78dbaabb33022f7e6e21f489fd8a37c413d3cb737f3",
   "minSdk": 23,
-  "notes": "docs: close F67, GZ §6m — costs-nothing-when-unused, and always ship the way back"
+  "notes": "VOD: the search box trapped focus, and finished searches re-ran (F73)"
 }
