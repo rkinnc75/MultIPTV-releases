@@ -1,8 +1,8 @@
 {
-  "versionCode": 310,
-  "versionName": "1.3.4",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.4/MultIPTV-1.3.4.apk",
-  "sha256": "787587c8b5d256f1209d097b788b447dabbf85f9a533031298a8351e58733c8d",
+  "versionCode": 311,
+  "versionName": "1.3.5",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.5/MultIPTV-1.3.5.apk",
+  "sha256": "54d01639a4f728caa08698aa8f3f1960f24d904aec40e1589f46f66851b41707",
   "minSdk": 23,
-  "notes": "Category managers sort enabled first, then alphabetical (F94)"
+  "notes": "Every focused list row was a solid block, not a ring (F95)"
 }
