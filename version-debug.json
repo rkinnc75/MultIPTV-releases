@@ -1,8 +1,8 @@
 {
-  "versionCode": 306,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.0/MultIPTV-1.3.0-debug.apk",
-  "sha256": "2a308e11ae600ef0a75cfd26380b3bcb84d896858cb0a3e017bbfb02b1ff63d4",
+  "versionCode": 308,
+  "versionName": "1.3.2",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.2/MultIPTV-1.3.2-debug.apk",
+  "sha256": "5f034509dc8e447f3da4428ab7e7d26b156cf87cc69bb2d5242eda65efe72e7c",
   "minSdk": 23,
-  "notes": "Focus rings were clipped on three sides and washed out (F91)"
+  "notes": "Zero the banner-to-grid clearance (F92 follow-up)"
 }
