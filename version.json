@@ -1,8 +1,8 @@
 {
-  "versionCode": 319,
-  "versionName": "1.3.13",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.13/MultIPTV-1.3.13.apk",
-  "sha256": "87c9928f09c58b26524e42ef258e5943a481704f8ee1a1e1be83975b9c044148",
+  "versionCode": 320,
+  "versionName": "1.3.14",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.14/MultIPTV-1.3.14.apk",
+  "sha256": "b846c9d5f08704bbc69ed3c32a2aefd784b2538e708daec00ffa8d22b5b72a23",
   "minSdk": 23,
-  "notes": "YES Network had no guide for four separate reasons (F101-F105)"
+  "notes": "Land fix060/061/062, with the corrections the gate found"
 }
