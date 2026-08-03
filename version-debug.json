@@ -1,8 +1,8 @@
 {
-  "versionCode": 318,
-  "versionName": "1.3.12",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.12/MultIPTV-1.3.12-debug.apk",
-  "sha256": "787a781df793b22b4339d4a0f580efe8cb27c021e85aa7bf08a7e16c53fd2075",
+  "versionCode": 319,
+  "versionName": "1.3.13",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.13/MultIPTV-1.3.13-debug.apk",
+  "sha256": "57b01edcd9cdc3ef6ad9c6ec9b78040ebf89a9459903d8fee89c90df0471a3a1",
   "minSdk": 23,
-  "notes": "Route the detail through the matrix, and remember recent searches (F99/F100)"
+  "notes": "YES Network had no guide for four separate reasons (F101-F105)"
 }
