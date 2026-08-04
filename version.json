@@ -1,8 +1,8 @@
 {
-  "versionCode": 323,
-  "versionName": "1.3.17",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.17/MultIPTV-1.3.17.apk",
-  "sha256": "b88384d82208d4504026fe2b83cb89f490260e0fd59ab784d5ecf869f18bbf53",
+  "versionCode": 324,
+  "versionName": "1.3.18",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.18/MultIPTV-1.3.18.apk",
+  "sha256": "47eb24264a9001448abd59ebe26a457561961eb285d110c719bc8701a12b253d",
   "minSdk": 23,
-  "notes": "Land fix063/064, minus one focus stop"
+  "notes": "Land fix065, and connect the review channel that was never plugged in"
 }
