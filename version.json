@@ -1,8 +1,8 @@
 {
-  "versionCode": 331,
-  "versionName": "1.3.25",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.25/MultIPTV-1.3.25.apk",
-  "sha256": "a301d3dbf5b791201816392d2173c0967238b612339307c1622ac3f080528a62",
+  "versionCode": 333,
+  "versionName": "1.3.27",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.27/MultIPTV-1.3.27.apk",
+  "sha256": "a7e699f1f29048e85db2546f45fd406580ef610db74d26aee8eb68208d4ac06b",
   "minSdk": 23,
-  "notes": "N2: M3U parser hardening (F123) and the brand-only EPG match (F22)"
+  "notes": "Record the overnight batches: 6 findings closed, 2 adoptions downgraded"
 }
