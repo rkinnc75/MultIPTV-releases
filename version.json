@@ -1,8 +1,8 @@
 {
-  "versionCode": 333,
-  "versionName": "1.3.27",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.27/MultIPTV-1.3.27.apk",
-  "sha256": "a7e699f1f29048e85db2546f45fd406580ef610db74d26aee8eb68208d4ac06b",
+  "versionCode": 335,
+  "versionName": "1.3.29",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.29/MultIPTV-1.3.29.apk",
+  "sha256": "f32b6119b8fc150be36719617f0bde774e6f40fc395039ec74007100c7603c55",
   "minSdk": 23,
-  "notes": "Record the overnight batches: 6 findings closed, 2 adoptions downgraded"
+  "notes": "fix066: test the 304 path, drop a retracted justification, guard the tally (#17)"
 }
