@@ -1,8 +1,8 @@
 {
-  "versionCode": 341,
-  "versionName": "1.3.35",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.35/MultIPTV-1.3.35.apk",
-  "sha256": "1029ff109abd7640341d3121c251257fb41cba172a279e1443cce8345f9ad50a",
+  "versionCode": 342,
+  "versionName": "1.3.36",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.36/MultIPTV-1.3.36.apk",
+  "sha256": "6cdd092f796a48e25c025bcc3805f77daa772bb5e84d3c2eb66a1690fdf17a45",
   "minSdk": 23,
-  "notes": "F65: guard every worker run, not only the first schedule"
+  "notes": "G1: the VOD browse screen opened focused on the search box"
 }
