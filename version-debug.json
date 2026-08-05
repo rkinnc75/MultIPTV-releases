@@ -1,8 +1,8 @@
 {
-  "versionCode": 329,
-  "versionName": "1.3.23",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.23/MultIPTV-1.3.23-debug.apk",
-  "sha256": "a02565d20a4acbac4b6da91cb043610df1db19a5ba6f7ac4c781a215a9199b69",
+  "versionCode": 330,
+  "versionName": "1.3.24",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.24/MultIPTV-1.3.24-debug.apk",
+  "sha256": "8d72bf903e76a12434a2dbd2af2e7f21693c0e7d5825c07970d61e5954024b28",
   "minSdk": 23,
-  "notes": "Peer gap analysis: Peer2 contracts + Peer4 techniques, vs the code"
+  "notes": "N1: five one-line correctness fixes (F117, F122, F134, F112)"
 }
