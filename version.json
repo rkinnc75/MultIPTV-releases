@@ -1,8 +1,8 @@
 {
-  "versionCode": 325,
-  "versionName": "1.3.19",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.19/MultIPTV-1.3.19.apk",
-  "sha256": "b28d05110ab5fdb1ab2e72f2a7493c162d8d4793ee099ad207a90c3159c6ff7a",
+  "versionCode": 327,
+  "versionName": "1.3.21",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.21/MultIPTV-1.3.21.apk",
+  "sha256": "cfd134c20d9cd76c59c500bbeef91f1569f82e4a870c76d788c927fc26ae628e",
   "minSdk": 23,
-  "notes": "An empty custom group deletes itself"
+  "notes": "Sync the audit docs with the tree; the count now lives in one place (#16)"
 }
