@@ -1,8 +1,8 @@
 {
-  "versionCode": 335,
-  "versionName": "1.3.29",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.29/MultIPTV-1.3.29.apk",
-  "sha256": "f32b6119b8fc150be36719617f0bde774e6f40fc395039ec74007100c7603c55",
+  "versionCode": 341,
+  "versionName": "1.3.35",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.35/MultIPTV-1.3.35.apk",
+  "sha256": "1029ff109abd7640341d3121c251257fb41cba172a279e1443cce8345f9ad50a",
   "minSdk": 23,
-  "notes": "fix066: test the 304 path, drop a retracted justification, guard the tally (#17)"
+  "notes": "F65: guard every worker run, not only the first schedule"
 }
