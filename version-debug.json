@@ -1,8 +1,8 @@
 {
-  "versionCode": 347,
-  "versionName": "1.3.41",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.41/MultIPTV-1.3.41-debug.apk",
-  "sha256": "24137a177dc18d5e64d48a08a53ce24875efcfa038787df1edabd6908a028d0b",
+  "versionCode": 348,
+  "versionName": "1.3.42",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.42/MultIPTV-1.3.42-debug.apk",
+  "sha256": "598c0b4aa3108f0e12a64ef8a4a939f3ff08436d95cb67d856bd612e7572fc02",
   "minSdk": 23,
-  "notes": "F138: one \"Skip step\" setting, for catch-up and on-demand alike"
+  "notes": "F113: close as a duplicate of F137/F138"
 }
