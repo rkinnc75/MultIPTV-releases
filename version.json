@@ -1,8 +1,8 @@
 {
-  "versionCode": 345,
-  "versionName": "1.3.39",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.39/MultIPTV-1.3.39.apk",
-  "sha256": "51aa77807bc536fa9689fb26ea8d949a1e5e45f666643599eff507f53f34c67f",
+  "versionCode": 346,
+  "versionName": "1.3.40",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.40/MultIPTV-1.3.40.apk",
+  "sha256": "e3b97c23143315e771d285e33dd04465a285ee9d07ff86335fa2a25282e87070",
   "minSdk": 23,
-  "notes": "F135/F136: the screensaver stopped the episode; focus behind the video"
+  "notes": "F137: the transport's two skip buttons were 5s and 15s"
 }
