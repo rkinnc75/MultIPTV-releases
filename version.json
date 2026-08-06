@@ -1,8 +1,8 @@
 {
-  "versionCode": 346,
-  "versionName": "1.3.40",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.40/MultIPTV-1.3.40.apk",
-  "sha256": "e3b97c23143315e771d285e33dd04465a285ee9d07ff86335fa2a25282e87070",
+  "versionCode": 347,
+  "versionName": "1.3.41",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.41/MultIPTV-1.3.41.apk",
+  "sha256": "6407d880ea55e51aa0975ab2da2af7ee5a5628eeab73e7c27025d66a1408ce36",
   "minSdk": 23,
-  "notes": "F137: the transport's two skip buttons were 5s and 15s"
+  "notes": "F138: one \"Skip step\" setting, for catch-up and on-demand alike"
 }
