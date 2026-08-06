@@ -1,8 +1,8 @@
 {
-  "versionCode": 349,
-  "versionName": "1.3.43",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.43/MultIPTV-1.3.43.apk",
-  "sha256": "23c5d54da9f2526c947e40cab251dff50331474ea3660d0b007af5d3a14447bc",
+  "versionCode": 351,
+  "versionName": "1.3.45",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.45/MultIPTV-1.3.45.apk",
+  "sha256": "efef9208ca9945f8cf3df5110ab13f2e7831848be66a6bce7e776cbe1ab327b1",
   "minSdk": 23,
-  "notes": "F121: the guide was paged by row but never by time"
+  "notes": "fix070: BACK-to-now landed outside the loaded span and stayed blank (#20)"
 }
