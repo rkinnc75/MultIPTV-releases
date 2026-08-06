@@ -1,8 +1,8 @@
 {
-  "versionCode": 342,
-  "versionName": "1.3.36",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.36/MultIPTV-1.3.36-debug.apk",
-  "sha256": "5b60ba20e05578206c264a39085e1cf17c58447efd986a3620639cdb24f3e9b5",
+  "versionCode": 343,
+  "versionName": "1.3.37",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.37/MultIPTV-1.3.37-debug.apk",
+  "sha256": "1bd68debc6ec89b3aa21d17df960a3f43c0b25803d0b5052d8b0ea73a40a5248",
   "minSdk": 23,
-  "notes": "G1: the VOD browse screen opened focused on the search box"
+  "notes": "G1b: the browse rails stayed focusable behind the detail panel"
 }
