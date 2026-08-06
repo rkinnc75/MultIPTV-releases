@@ -1,8 +1,8 @@
 {
-  "versionCode": 343,
-  "versionName": "1.3.37",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.37/MultIPTV-1.3.37.apk",
-  "sha256": "0aae38d70656554aad5f3d7ea9cdd0feb8c9f7af587c1d9773a3b95a95f3939e",
+  "versionCode": 344,
+  "versionName": "1.3.38",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.38/MultIPTV-1.3.38.apk",
+  "sha256": "145c002fe7328bd791792a952dc94c955dd52117d8c02277f599ab7911c3b55c",
   "minSdk": 23,
-  "notes": "G1b: the browse rails stayed focusable behind the detail panel"
+  "notes": "N3+F128: audio focus, track persistence, live-window, D-pad repeat gate"
 }
