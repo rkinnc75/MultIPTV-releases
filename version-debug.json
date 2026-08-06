@@ -1,8 +1,8 @@
 {
-  "versionCode": 351,
-  "versionName": "1.3.45",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.45/MultIPTV-1.3.45-debug.apk",
-  "sha256": "22c5aea77de3531f9c2d9e00d6c78b91305c2aea6e99e383e68bb5b6260cbf7b",
+  "versionCode": 355,
+  "versionName": "1.3.49",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.49/MultIPTV-1.3.49-debug.apk",
+  "sha256": "04e9ad718174f2dd2eb13448737c2f5b5c1c41b52b262c7dc9c2c1d8fc375e4b",
   "minSdk": 23,
-  "notes": "fix070: BACK-to-now landed outside the loaded span and stayed blank (#20)"
+  "notes": "Merge fix071 (#21): F45 catch-up cascade, with the two read sites it missed"
 }
