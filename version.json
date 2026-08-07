@@ -1,8 +1,8 @@
 {
-  "versionCode": 378,
-  "versionName": "1.3.72",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.72/MultIPTV-1.3.72.apk",
-  "sha256": "312f2a496b8e910cf5c774f4c6257fb23fee15c89b4bbc2a01655fce2296ce8f",
+  "versionCode": 379,
+  "versionName": "1.3.73",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.73/MultIPTV-1.3.73.apk",
+  "sha256": "78cfabda34e28956ef3d5fecb2410a6ea2c9b6da4e21dd02593be142472f28fa",
   "minSdk": 23,
-  "notes": "F146 + fix083: three fallback guides in priority order; artwork frame takes the artwork's shape"
+  "notes": "F146: record the on-device verification of all three fallback slots"
 }
