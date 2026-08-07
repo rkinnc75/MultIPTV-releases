@@ -1,8 +1,8 @@
 {
-  "versionCode": 360,
-  "versionName": "1.3.54",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.54/MultIPTV-1.3.54.apk",
-  "sha256": "a1bc81bc7181cec738ed7d00e5b8cb46819c132bbf54d282daa8cb3e1330d620",
+  "versionCode": 364,
+  "versionName": "1.3.58",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.58/MultIPTV-1.3.58.apk",
+  "sha256": "fbefb0208f5f72e5e1183bfe7cc60caf4d71a96b2323ac1eb86547df9e761f17",
   "minSdk": 23,
-  "notes": "F143: 155s to first frame, because the channel list loads whole"
+  "notes": "Merge fix076 (#26): instrument F143's emission count before fixing it"
 }
