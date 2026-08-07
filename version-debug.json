@@ -1,8 +1,8 @@
 {
-  "versionCode": 377,
-  "versionName": "1.3.71",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.71/MultIPTV-1.3.71-debug.apk",
-  "sha256": "f1e253adf320510cba305e9028100bbfde951982ff677db12cce63dc99c2e514",
+  "versionCode": 378,
+  "versionName": "1.3.72",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.72/MultIPTV-1.3.72-debug.apk",
+  "sha256": "1ee323a858b2b8e030b5da54e281cfdf0d40149b5107e29285d2b7c3baa6ea2a",
   "minSdk": 23,
-  "notes": "fix082: BACK out of full screen returns to what you were browsing"
+  "notes": "F146 + fix083: three fallback guides in priority order; artwork frame takes the artwork's shape"
 }
