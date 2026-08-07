@@ -1,8 +1,8 @@
 {
-  "versionCode": 368,
-  "versionName": "1.3.62",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.62/MultIPTV-1.3.62-debug.apk",
-  "sha256": "a2517d705878531f24321a64f9a3d1e586f22188bd4a0305681f96bb3d00e34f",
+  "versionCode": 369,
+  "versionName": "1.3.63",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.63/MultIPTV-1.3.63-debug.apk",
+  "sha256": "76a587f58a615a122df69dfb50c2782ff4175fd8017038994d012ecf0f04c26a",
   "minSdk": 23,
-  "notes": "F143 closed: the 155s was the changelog screen, reproduced on the TCL"
+  "notes": "F131: overlays that never left, and vanished when they did"
 }
