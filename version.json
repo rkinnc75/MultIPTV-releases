@@ -1,8 +1,8 @@
 {
-  "versionCode": 355,
-  "versionName": "1.3.49",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.49/MultIPTV-1.3.49.apk",
-  "sha256": "e92fca560206c04775adef1a46c1146105ae1f3cf8d4db7a34dc828fac2e1387",
+  "versionCode": 356,
+  "versionName": "1.3.50",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.50/MultIPTV-1.3.50.apk",
+  "sha256": "f1bc5ddbd7433edd67cb2e474b57f3970861b5871e13970a51e89bbce1143e8a",
   "minSdk": 23,
-  "notes": "Merge fix071 (#21): F45 catch-up cascade, with the two read sites it missed"
+  "notes": "F140: live-TV UP went DOWN in channel number, and CH+/CH- did nothing"
 }
