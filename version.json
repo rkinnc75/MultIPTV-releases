@@ -1,8 +1,8 @@
 {
-  "versionCode": 375,
-  "versionName": "1.3.69",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.69/MultIPTV-1.3.69.apk",
-  "sha256": "85e3d636cc3ae6b8a81d89ac323d4c0268443f6bee9ca1d7ffd4583ceaf7f162",
+  "versionCode": 376,
+  "versionName": "1.3.70",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.70/MultIPTV-1.3.70.apk",
+  "sha256": "429f7cbdd193a0a9a9bd30349a3c64a7bafd7275c8ed7aba8361cae31864560a",
   "minSdk": 23,
-  "notes": "Merge fix078 (#28): Refresh EPGs button — fixed so it finds Xtream sources"
+  "notes": "fix080/fix081: one owner for row state, fallback runs last, artwork keeps its shape"
 }
