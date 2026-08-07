@@ -1,8 +1,8 @@
 {
-  "versionCode": 374,
-  "versionName": "1.3.68",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.68/MultIPTV-1.3.68.apk",
-  "sha256": "5ecc5118ad4c993b80ee04bc64e35d3cd8950e6b6c67b8eda6ef5e888889243f",
+  "versionCode": 375,
+  "versionName": "1.3.69",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.69/MultIPTV-1.3.69.apk",
+  "sha256": "85e3d636cc3ae6b8a81d89ac323d4c0268443f6bee9ca1d7ffd4583ceaf7f162",
   "minSdk": 23,
-  "notes": "Merge fix079 (#29): every refresh on the TCL died on \"too many SQL variables\""
+  "notes": "Merge fix078 (#28): Refresh EPGs button — fixed so it finds Xtream sources"
 }
