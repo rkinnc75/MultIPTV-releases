@@ -1,8 +1,8 @@
 {
-  "versionCode": 380,
-  "versionName": "1.3.74",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.74/MultIPTV-1.3.74.apk",
-  "sha256": "47b19d351fc546034e7050a478106c3744cd806913860e0774976cf33b5dc351",
+  "versionCode": 381,
+  "versionName": "1.3.75",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.75/MultIPTV-1.3.75.apk",
+  "sha256": "79209148682dec458b3a391ba5fb5ca65420c75b208d07288de002e0b969b3b9",
   "minSdk": 23,
-  "notes": "docs: re-sweep the stale priority tiers in PEER2_AUDIT_FINDINGS"
+  "notes": "F110: schedule the cadence the interval picker actually promises"
 }
