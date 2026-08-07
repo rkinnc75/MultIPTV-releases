@@ -1,8 +1,8 @@
 {
-  "versionCode": 370,
-  "versionName": "1.3.64",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.64/MultIPTV-1.3.64-debug.apk",
-  "sha256": "9bdedd12dad0f6be5f4a6254f7e3ab2d478afb2ec399d2b9dee0b69806c48b83",
+  "versionCode": 374,
+  "versionName": "1.3.68",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.68/MultIPTV-1.3.68-debug.apk",
+  "sha256": "a81ea3f2e4125144340fcd60ebdfcbe42d9fdfbf51307e4742f907b4fe7756e0",
   "minSdk": 23,
-  "notes": "F144: the landing row was the one row focus skipped"
+  "notes": "Merge fix079 (#29): every refresh on the TCL died on \"too many SQL variables\""
 }
