@@ -1,8 +1,8 @@
 {
-  "versionCode": 359,
-  "versionName": "1.3.53",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.53/MultIPTV-1.3.53.apk",
-  "sha256": "a0e88e4fbf3ee9cdee8be17925c3c8a0276f3628f7b5b61d7641508a43a9afe5",
+  "versionCode": 360,
+  "versionName": "1.3.54",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.54/MultIPTV-1.3.54.apk",
+  "sha256": "a1bc81bc7181cec738ed7d00e5b8cb46819c132bbf54d282daa8cb3e1330d620",
   "minSdk": 23,
-  "notes": "F142: tuning from the guide did not leave the guide"
+  "notes": "F143: 155s to first frame, because the channel list loads whole"
 }
