@@ -1,8 +1,8 @@
 {
-  "versionCode": 356,
-  "versionName": "1.3.50",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.50/MultIPTV-1.3.50.apk",
-  "sha256": "f1bc5ddbd7433edd67cb2e474b57f3970861b5871e13970a51e89bbce1143e8a",
+  "versionCode": 357,
+  "versionName": "1.3.51",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.51/MultIPTV-1.3.51.apk",
+  "sha256": "b1055dfbe19edfb05e3a564fdf4b4a40f961787a82faf5390dc83d72f877446d",
   "minSdk": 23,
-  "notes": "F140: live-TV UP went DOWN in channel number, and CH+/CH- did nothing"
+  "notes": "F116: the transport keys were dead on the screen people use most"
 }
