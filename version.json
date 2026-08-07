@@ -1,8 +1,8 @@
 {
-  "versionCode": 367,
-  "versionName": "1.3.61",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.61/MultIPTV-1.3.61.apk",
-  "sha256": "ff15d66e241d2d7d03a6e1c77d8ad2513876265a43135f31c69dfccf6655444e",
+  "versionCode": 368,
+  "versionName": "1.3.62",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.62/MultIPTV-1.3.62.apk",
+  "sha256": "d0afba8c4c6e03eedef1cee12836b8df160aa4029cf64aaaf16c410430c33b62",
   "minSdk": 23,
-  "notes": "fix077 review: correct the starvation reading, and one line of its own"
+  "notes": "F143 closed: the 155s was the changelog screen, reproduced on the TCL"
 }
