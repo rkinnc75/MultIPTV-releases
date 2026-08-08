@@ -1,8 +1,8 @@
 {
-  "versionCode": 413,
-  "versionName": "1.4.7",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.7/MultIPTV-1.4.7.apk",
-  "sha256": "31abff561323ec8250d1e9653b873f67209b04978907099b4c1bc27611a87a6c",
+  "versionCode": 415,
+  "versionName": "1.4.9",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.9/MultIPTV-1.4.9.apk",
+  "sha256": "ce50e71552c2cc576adde178081f6b3cb17a0f9ede3be1654a67fe42b8b08845",
   "minSdk": 23,
-  "notes": "docs: 6cg — managers show the language-narrowed universe; purge consequence"
+  "notes": "docs: 6ch — decomposing the Unknown bucket, token gaps, backlog sweep"
 }
