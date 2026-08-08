@@ -1,8 +1,8 @@
 {
-  "versionCode": 419,
-  "versionName": "1.4.13",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.13/MultIPTV-1.4.13-debug.apk",
-  "sha256": "52a0c597a680243ba1c7bd617c13b2efb833d2815c82a554c423d77b852aa8e0",
+  "versionCode": 421,
+  "versionName": "1.4.15",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.15/MultIPTV-1.4.15-debug.apk",
+  "sha256": "2827f16b850bca6d47b68c7abbb23e49b6477de118abccbdd292ef7ff980bae3",
   "minSdk": 23,
-  "notes": "docs: 6ci — PR32/33 review, the failover desync, and what is still unverified"
+  "notes": "docs: 6cj — fix093 was dead code; what the green suite did not ask"
 }
