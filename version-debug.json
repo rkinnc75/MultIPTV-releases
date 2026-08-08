@@ -1,8 +1,8 @@
 {
-  "versionCode": 400,
-  "versionName": "1.3.94",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.94/MultIPTV-1.3.94-debug.apk",
-  "sha256": "9a05dfc5ab8eec1407ce61c2e9d94032464762edb6cdec3fc42e623b515b339f",
+  "versionCode": 402,
+  "versionName": "1.3.96",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.96/MultIPTV-1.3.96-debug.apk",
+  "sha256": "fdd13e1ad891778ecb6eebac69e277071c6ffb66fb45162cda7683e55eb60484",
   "minSdk": 23,
-  "notes": "fix087: excuse DbHealth's prefs store, and own a red push"
+  "notes": "docs: close F21 in the audit tally (12 open / 83 done)"
 }
