@@ -1,8 +1,8 @@
 {
-  "versionCode": 415,
-  "versionName": "1.4.9",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.9/MultIPTV-1.4.9.apk",
-  "sha256": "ce50e71552c2cc576adde178081f6b3cb17a0f9ede3be1654a67fe42b8b08845",
+  "versionCode": 419,
+  "versionName": "1.4.13",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.13/MultIPTV-1.4.13.apk",
+  "sha256": "7236e0355165f83c5448c816ea7b1ec2a53f68d9122744dd222e047e32eb396b",
   "minSdk": 23,
-  "notes": "docs: 6ch — decomposing the Unknown bucket, token gaps, backlog sweep"
+  "notes": "docs: 6ci — PR32/33 review, the failover desync, and what is still unverified"
 }
