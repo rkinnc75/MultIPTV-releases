@@ -1,8 +1,8 @@
 {
-  "versionCode": 411,
-  "versionName": "1.4.5",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.5/MultIPTV-1.4.5.apk",
-  "sha256": "4a1c82fb5c2e9642a2bf8c7a0daa25a6b6994ad2036e137480bf684267253af9",
+  "versionCode": 413,
+  "versionName": "1.4.7",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.7/MultIPTV-1.4.7.apk",
+  "sha256": "31abff561323ec8250d1e9653b873f67209b04978907099b4c1bc27611a87a6c",
   "minSdk": 23,
-  "notes": "docs: F147 filter half - owner decision, live verification, residuals"
+  "notes": "docs: 6cg — managers show the language-narrowed universe; purge consequence"
 }
