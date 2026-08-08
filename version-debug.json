@@ -1,8 +1,8 @@
 {
-  "versionCode": 422,
-  "versionName": "1.4.16",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.16/MultIPTV-1.4.16-debug.apk",
-  "sha256": "41c55cb774290c629a86bf60a22a7246e626e5bd9551e3bc754f3ae54f4e7643",
+  "versionCode": 424,
+  "versionName": "1.4.18",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.18/MultIPTV-1.4.18-debug.apk",
+  "sha256": "456735736e4ffc972210d2989ebc578dd9e39b2a1b2e023f05cbc6cd18d754fc",
   "minSdk": 23,
-  "notes": "docs: 6ck — dead-logic sweep found nothing; EPG coverage measured"
+  "notes": "docs: 6cl — the stranded nav bar, and the guard that could not fail"
 }
