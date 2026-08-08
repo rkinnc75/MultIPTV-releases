@@ -1,8 +1,8 @@
 {
-  "versionCode": 396,
-  "versionName": "1.3.90",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.90/MultIPTV-1.3.90.apk",
-  "sha256": "feb87ada4d88af361d695a71d39e83c229ab688bb0068c7e941249e53f4e4f18",
+  "versionCode": 398,
+  "versionName": "1.3.92",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.92/MultIPTV-1.3.92.apk",
+  "sha256": "78bfbf6c971f86c499782e0a3c2355fc7b0758514d95de3a55ae4fc6adda6a42",
   "minSdk": 23,
-  "notes": "docs: close F114 in the audit tally (17 open / 78 done)"
+  "notes": "docs: close F60 in the audit tally (15 open / 80 done)"
 }
