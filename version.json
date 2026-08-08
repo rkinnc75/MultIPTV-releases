@@ -1,8 +1,8 @@
 {
-  "versionCode": 409,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.3/MultIPTV-1.4.3.apk",
-  "sha256": "fc101bb66a0b695ab361533f999afeec8b44141c2cabae622369c0f54d497669",
+  "versionCode": 411,
+  "versionName": "1.4.5",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.5/MultIPTV-1.4.5.apk",
+  "sha256": "4a1c82fb5c2e9642a2bf8c7a0daa25a6b6994ad2036e137480bf684267253af9",
   "minSdk": 23,
-  "notes": "docs: record F147's classifier design and measurements in GROUND_ZERO"
+  "notes": "docs: F147 filter half - owner decision, live verification, residuals"
 }
