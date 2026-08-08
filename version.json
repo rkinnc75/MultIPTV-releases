@@ -1,8 +1,8 @@
 {
-  "versionCode": 384,
-  "versionName": "1.3.78",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.78/MultIPTV-1.3.78.apk",
-  "sha256": "4b82daaf15451c669199dd2df417c5e63cee895058a3e2a6bcdada746d529920",
+  "versionCode": 386,
+  "versionName": "1.3.80",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.80/MultIPTV-1.3.80.apk",
+  "sha256": "bd829f2271af2fccee31d71c62844eb30c1f601dfa8bc0b0fab2ca2215ffeac5",
   "minSdk": 23,
-  "notes": "F125: record that a title was finished instead of erasing it"
+  "notes": "F132: move the one startup step that can move, and measure the rest honestly"
 }
