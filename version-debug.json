@@ -1,8 +1,8 @@
 {
-  "versionCode": 381,
-  "versionName": "1.3.75",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.75/MultIPTV-1.3.75-debug.apk",
-  "sha256": "a00ed9712a4dba32ee488b954729fd22a97d17409e16921efa601254770d7e3b",
+  "versionCode": 382,
+  "versionName": "1.3.76",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.76/MultIPTV-1.3.76-debug.apk",
+  "sha256": "797389156a582b547bc94c6c03fdcb060007fd27c091cf813056fc777e069d12",
   "minSdk": 23,
-  "notes": "F110: schedule the cadence the interval picker actually promises"
+  "notes": "F126: search raced itself, ran on one letter, and went quiet on empty"
 }
