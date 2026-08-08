@@ -1,8 +1,8 @@
 {
-  "versionCode": 391,
-  "versionName": "1.3.85",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.85/MultIPTV-1.3.85-debug.apk",
-  "sha256": "88175fd444ec040f56ef5972ec77319a1787e91a7cdd5355802a851fa5c66dd9",
+  "versionCode": 392,
+  "versionName": "1.3.86",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.86/MultIPTV-1.3.86-debug.apk",
+  "sha256": "a2266afbdbfd714d878b35fffe3cf1f55aca7224e99c0db5658e3bec528ecd9d",
   "minSdk": 23,
-  "notes": "docs: close F115 in the audit tally (18 open / 77 done)"
+  "notes": "F115 follow-up: My List above the categories, and a hole in the bite harness"
 }
