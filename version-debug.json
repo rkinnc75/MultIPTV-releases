@@ -1,8 +1,8 @@
 {
-  "versionCode": 382,
-  "versionName": "1.3.76",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.76/MultIPTV-1.3.76-debug.apk",
-  "sha256": "797389156a582b547bc94c6c03fdcb060007fd27c091cf813056fc777e069d12",
+  "versionCode": 383,
+  "versionName": "1.3.77",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.77/MultIPTV-1.3.77-debug.apk",
+  "sha256": "1aa2d8448823334c09829a1062a98ce6f544363a1add702f8a639bd733a6ad0a",
   "minSdk": 23,
-  "notes": "F126: search raced itself, ran on one letter, and went quiet on empty"
+  "notes": "F133: surface the crash the handler was already recording"
 }
