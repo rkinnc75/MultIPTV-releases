@@ -1,8 +1,8 @@
 {
-  "versionCode": 394,
-  "versionName": "1.3.88",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.88/MultIPTV-1.3.88-debug.apk",
-  "sha256": "480887f7e483d20d06d6bbf51bd9b56c8e0aa8fecf79ffcdfed0bcc5daa95e9b",
+  "versionCode": 396,
+  "versionName": "1.3.90",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.3.90/MultIPTV-1.3.90-debug.apk",
+  "sha256": "af5c71a8f902451f33cb97f7347546515e9cbf0b6f18d640d7ce2d7616c3f1d2",
   "minSdk": 23,
-  "notes": "fix086: dismiss the keyboard the search box raises on screen entry"
+  "notes": "docs: close F114 in the audit tally (17 open / 78 done)"
 }
