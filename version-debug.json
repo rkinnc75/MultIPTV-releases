@@ -1,8 +1,8 @@
 {
-  "versionCode": 406,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.0/MultIPTV-1.4.0-debug.apk",
-  "sha256": "af1d3d44f261d1099c18a1db4b1a8d8006b5efbae41057e96dfce4843ad6cd0a",
+  "versionCode": 407,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.1/MultIPTV-1.4.1-debug.apk",
+  "sha256": "32b04c3dff4e9641ffb08fe7d943771e66f5fa9217f9c8f7563648a48059393e",
   "minSdk": 23,
-  "notes": "docs: record fix090 and the metadata device-test gates in GROUND_ZERO"
+  "notes": "fix091: make metadata resolution observable, trim before the anchors"
 }
