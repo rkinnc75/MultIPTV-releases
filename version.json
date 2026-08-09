@@ -1,8 +1,8 @@
 {
-  "versionCode": 429,
-  "versionName": "1.4.23",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.23/MultIPTV-1.4.23.apk",
-  "sha256": "7709d4d0bc7f4d8ca50321ec27c7c92e89b944b200e7b427682e89f10b9f22c9",
+  "versionCode": 430,
+  "versionName": "1.4.24",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.24/MultIPTV-1.4.24.apk",
+  "sha256": "aed7139cb83b7874deb7a4dc2c62b01df349d12f16b56fbbbd03eeb8df9fb965",
   "minSdk": 23,
-  "notes": "fix101: stop the VOD keyboard being raised, not just dismissed"
+  "notes": "fix102: land on Continue Watching, per the owner's revised preference"
 }
