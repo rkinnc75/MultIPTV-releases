@@ -1,8 +1,8 @@
 {
-  "versionCode": 442,
-  "versionName": "1.4.36",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.36/MultIPTV-1.4.36-debug.apk",
-  "sha256": "19cccbf48e156d1b3bc5dd6370fe6fad54052c48790b5984aabe5e329945384b",
+  "versionCode": 443,
+  "versionName": "1.4.37",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.37/MultIPTV-1.4.37-debug.apk",
+  "sha256": "e5d52f447d069024ebdff6810980b396d9270461aada171403858289b3838024",
   "minSdk": 23,
-  "notes": "docs: fix112 verified on device; an unproven focus fix reverted"
+  "notes": "fix120: PRAGMA optimize may never have executed"
 }
