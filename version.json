@@ -1,8 +1,8 @@
 {
-  "versionCode": 430,
-  "versionName": "1.4.24",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.24/MultIPTV-1.4.24.apk",
-  "sha256": "aed7139cb83b7874deb7a4dc2c62b01df349d12f16b56fbbbd03eeb8df9fb965",
+  "versionCode": 431,
+  "versionName": "1.4.25",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.25/MultIPTV-1.4.25.apk",
+  "sha256": "89d3544f03b19f78a93bd3bed727644756565814423a6980837d85833d2b2902",
   "minSdk": 23,
-  "notes": "fix102: land on Continue Watching, per the owner's revised preference"
+  "notes": "fix103: log why the VOD transport stays up, instead of guessing"
 }
