@@ -1,8 +1,8 @@
 {
-  "versionCode": 432,
-  "versionName": "1.4.26",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.26/MultIPTV-1.4.26.apk",
-  "sha256": "b8ab2cea05def871cdfb2862588c7cb21b8b9e7bdaf43e0d256ce2ee5973bf7e",
+  "versionCode": 433,
+  "versionName": "1.4.27",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.27/MultIPTV-1.4.27.apk",
+  "sha256": "0eb5c751c049423f9472140f1d9dd9a86747cda75426f1f3f4c3dbad87b44959",
   "minSdk": 23,
-  "notes": "fix104/fix105: the stuck transport, and one settled paint"
+  "notes": "fix106: gate the first category batch too — it was the churn left over"
 }
