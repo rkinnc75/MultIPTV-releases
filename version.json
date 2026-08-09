@@ -1,8 +1,8 @@
 {
-  "versionCode": 424,
-  "versionName": "1.4.18",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.18/MultIPTV-1.4.18.apk",
-  "sha256": "92f93ae74b23fa24dda4b57792c31cab1a9ca380b6eabbf1213e13fe51357cb8",
+  "versionCode": 427,
+  "versionName": "1.4.21",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.21/MultIPTV-1.4.21.apk",
+  "sha256": "601a9fc582377ef6d197261b6c736d420b58b3e8ec2dbe999861ebeb2ad41482",
   "minSdk": 23,
-  "notes": "docs: 6cl — the stranded nav bar, and the guard that could not fail"
+  "notes": "fix099: nothing reset the hidden and language state — now three do"
 }
