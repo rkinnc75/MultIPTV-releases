@@ -1,8 +1,8 @@
 {
-  "versionCode": 437,
-  "versionName": "1.4.31",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.31/MultIPTV-1.4.31.apk",
-  "sha256": "e4bf8130e361b3c090e80e8a61587a86b68f52a80f0b5f6b5039f813c3e19e1f",
+  "versionCode": 438,
+  "versionName": "1.4.32",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.32/MultIPTV-1.4.32.apk",
+  "sha256": "39c4f9ceaa02dc04303c9bcaaa5225bd28c241a512ec25e8d90f71ae08fa50b6",
   "minSdk": 23,
-  "notes": "fix110: the hero showed one show's name over another show's artwork"
+  "notes": "fix111/112/113: a fixed hero, a readable synopsis, and the right pill"
 }
