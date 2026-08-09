@@ -1,8 +1,8 @@
 {
-  "versionCode": 438,
-  "versionName": "1.4.32",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.32/MultIPTV-1.4.32-debug.apk",
-  "sha256": "44e7b3575d774a94981ccf24ce23dcf5cfd78ec8b2e17cf07092497316244ebb",
+  "versionCode": 439,
+  "versionName": "1.4.33",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.33/MultIPTV-1.4.33-debug.apk",
+  "sha256": "c54d8bd1a8322597fe848b16ce7c66cbd7233b205563861ec469f3a5db1bb8a7",
   "minSdk": 23,
-  "notes": "fix111/112/113: a fixed hero, a readable synopsis, and the right pill"
+  "notes": "fix114/115/116: the hero handover, and a wrong claim corrected"
 }
