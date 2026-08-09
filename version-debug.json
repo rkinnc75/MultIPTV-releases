@@ -1,8 +1,8 @@
 {
-  "versionCode": 435,
-  "versionName": "1.4.29",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.29/MultIPTV-1.4.29-debug.apk",
-  "sha256": "d267fc599399286704f4e9acf2982da746a265d0ebd420561a4d022e932979b3",
+  "versionCode": 437,
+  "versionName": "1.4.31",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.31/MultIPTV-1.4.31-debug.apk",
+  "sha256": "d20e5e4349d72e8bddb7263866935160d6e4f90a7b086c0f962ff30398369fa9",
   "minSdk": 23,
-  "notes": "docs: 6cm — the VOD paint queries, and why ANALYZE was the missing half"
+  "notes": "fix110: the hero showed one show's name over another show's artwork"
 }
