@@ -1,8 +1,8 @@
 {
-  "versionCode": 427,
-  "versionName": "1.4.21",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.21/MultIPTV-1.4.21.apk",
-  "sha256": "601a9fc582377ef6d197261b6c736d420b58b3e8ec2dbe999861ebeb2ad41482",
+  "versionCode": 429,
+  "versionName": "1.4.23",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.23/MultIPTV-1.4.23.apk",
+  "sha256": "7709d4d0bc7f4d8ca50321ec27c7c92e89b944b200e7b427682e89f10b9f22c9",
   "minSdk": 23,
-  "notes": "fix099: nothing reset the hidden and language state — now three do"
+  "notes": "fix101: stop the VOD keyboard being raised, not just dismissed"
 }
