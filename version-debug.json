@@ -1,8 +1,8 @@
 {
-  "versionCode": 439,
-  "versionName": "1.4.33",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.33/MultIPTV-1.4.33-debug.apk",
-  "sha256": "c54d8bd1a8322597fe848b16ce7c66cbd7233b205563861ec469f3a5db1bb8a7",
+  "versionCode": 440,
+  "versionName": "1.4.34",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.34/MultIPTV-1.4.34-debug.apk",
+  "sha256": "e0151c0d184b35d922414444d373db38a972c9d8d3cc0d2b05d46183b3d776cb",
   "minSdk": 23,
-  "notes": "fix114/115/116: the hero handover, and a wrong claim corrected"
+  "notes": "fix117: the failover was escalating on a resting loader"
 }
