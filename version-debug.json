@@ -1,8 +1,8 @@
 {
-  "versionCode": 433,
-  "versionName": "1.4.27",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.27/MultIPTV-1.4.27-debug.apk",
-  "sha256": "5868935c8660598d3cda68dd898487db754bf52deb40c59d033577428a5e3f72",
+  "versionCode": 435,
+  "versionName": "1.4.29",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.29/MultIPTV-1.4.29-debug.apk",
+  "sha256": "d267fc599399286704f4e9acf2982da746a265d0ebd420561a4d022e932979b3",
   "minSdk": 23,
-  "notes": "fix106: gate the first category batch too — it was the churn left over"
+  "notes": "docs: 6cm — the VOD paint queries, and why ANALYZE was the missing half"
 }
