@@ -1,8 +1,8 @@
 {
-  "versionCode": 452,
-  "versionName": "1.4.46",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.46/MultIPTV-1.4.46.apk",
-  "sha256": "708e24e9b46fade3ad2a43cbc6cf1769f0749df2b8f034c276d80afd8939fd03",
+  "versionCode": 453,
+  "versionName": "1.4.47",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.47/MultIPTV-1.4.47.apk",
+  "sha256": "30202e3ea83137930483ddc96f35cf91cd451e06fa6d57459c46eb3e060deee0",
   "minSdk": 23,
-  "notes": "fix127/F68: customise the Options sheet, once identity stops being position"
+  "notes": "fix128/F32: accelerating catch-up seek, keyed on hold time"
 }
