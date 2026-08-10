@@ -1,8 +1,8 @@
 {
-  "versionCode": 454,
-  "versionName": "1.4.48",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.48/MultIPTV-1.4.48.apk",
-  "sha256": "d0d643adbca1fa3325e4c5ec6f0b1867159533da29229ffafce1f259cae3184a",
+  "versionCode": 455,
+  "versionName": "1.4.49",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.49/MultIPTV-1.4.49.apk",
+  "sha256": "ed6b3175931356b17f48ac6b7d4fb59606437a47e0685d0cd778b2ff61b5b413",
   "minSdk": 23,
-  "notes": "fix129/F20: the only write route on the LAN server"
+  "notes": "fix130/F35: one boolean was why recording could never be concurrent"
 }
