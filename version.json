@@ -1,8 +1,8 @@
 {
-  "versionCode": 453,
-  "versionName": "1.4.47",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.47/MultIPTV-1.4.47.apk",
-  "sha256": "30202e3ea83137930483ddc96f35cf91cd451e06fa6d57459c46eb3e060deee0",
+  "versionCode": 454,
+  "versionName": "1.4.48",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.48/MultIPTV-1.4.48.apk",
+  "sha256": "d0d643adbca1fa3325e4c5ec6f0b1867159533da29229ffafce1f259cae3184a",
   "minSdk": 23,
-  "notes": "fix128/F32: accelerating catch-up seek, keyed on hold time"
+  "notes": "fix129/F20: the only write route on the LAN server"
 }
