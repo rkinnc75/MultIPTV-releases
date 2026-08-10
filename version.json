@@ -1,8 +1,8 @@
 {
-  "versionCode": 446,
-  "versionName": "1.4.40",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.40/MultIPTV-1.4.40.apk",
-  "sha256": "27410fdbc565cfb1bb3314d4a28597e74c073689a1a323bb186863e534f96628",
+  "versionCode": 447,
+  "versionName": "1.4.41",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.41/MultIPTV-1.4.41.apk",
+  "sha256": "be0578fc3023b11c1781bc0dc1eedb83c9d8de1c98886b42cdf1b00f49972969",
   "minSdk": 23,
-  "notes": "fix123: log files were bounded per file, not by count"
+  "notes": "fix124: the Debugging screen says what the app is using"
 }
