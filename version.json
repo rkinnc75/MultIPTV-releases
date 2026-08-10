@@ -1,8 +1,8 @@
 {
-  "versionCode": 444,
-  "versionName": "1.4.38",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.38/MultIPTV-1.4.38.apk",
-  "sha256": "583eee9d19b89d672abed1b68847c8772403e9e0bb5c0a76cfc32872793fbca4",
+  "versionCode": 445,
+  "versionName": "1.4.39",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.39/MultIPTV-1.4.39.apk",
+  "sha256": "8ab97662196478462b3ce4beb33e3954441caa4f2060d14b17c7c0752bdd9852",
   "minSdk": 23,
-  "notes": "F50 (fix121): panels fade IN too, and a key mid-fade snaps them back"
+  "notes": "F59 (fix122): the guide's focused row rides the centre"
 }
