@@ -1,8 +1,8 @@
 {
-  "versionCode": 445,
-  "versionName": "1.4.39",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.39/MultIPTV-1.4.39-debug.apk",
-  "sha256": "0085d55a5dc7aa5a39850a532dd6a3d492404be4651e4b06ea3b5dd026aa56bc",
+  "versionCode": 446,
+  "versionName": "1.4.40",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.40/MultIPTV-1.4.40-debug.apk",
+  "sha256": "db74dc65eefb67b2e68e7b9c623ca43cc67965c134d7968e324e13f0476a19f6",
   "minSdk": 23,
-  "notes": "F59 (fix122): the guide's focused row rides the centre"
+  "notes": "fix123: log files were bounded per file, not by count"
 }
