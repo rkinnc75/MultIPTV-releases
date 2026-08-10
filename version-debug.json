@@ -1,8 +1,8 @@
 {
-  "versionCode": 455,
-  "versionName": "1.4.49",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.49/MultIPTV-1.4.49-debug.apk",
-  "sha256": "4a898130e742b717e049440cee7d27a13fd76b60ef2486eb61170225afd61dea",
+  "versionCode": 457,
+  "versionName": "1.4.51",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.51/MultIPTV-1.4.51-debug.apk",
+  "sha256": "2dc7bf8cf41fc1a3f9ef446a9c35267bc9c531c11e836b88fba6d2d0ab55a8a4",
   "minSdk": 23,
-  "notes": "fix130/F35: one boolean was why recording could never be concurrent"
+  "notes": "Merge PR #34 (fix131): preflight as a CI gate, and three won't-dos un-ticked"
 }
