@@ -1,8 +1,8 @@
 {
-  "versionCode": 443,
-  "versionName": "1.4.37",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.37/MultIPTV-1.4.37.apk",
-  "sha256": "b86863abcabccf6189abe9969bb425ab6093558d00fe0a0e7952155cba76af4d",
+  "versionCode": 444,
+  "versionName": "1.4.38",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.38/MultIPTV-1.4.38.apk",
+  "sha256": "583eee9d19b89d672abed1b68847c8772403e9e0bb5c0a76cfc32872793fbca4",
   "minSdk": 23,
-  "notes": "fix120: PRAGMA optimize may never have executed"
+  "notes": "F50 (fix121): panels fade IN too, and a key mid-fade snaps them back"
 }
