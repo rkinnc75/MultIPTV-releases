@@ -1,8 +1,8 @@
 {
-  "versionCode": 449,
-  "versionName": "1.4.43",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.43/MultIPTV-1.4.43-debug.apk",
-  "sha256": "22a96a950d9ba8341f421748e3cfb5c46301799035affb012dd72c4c67154508",
+  "versionCode": 450,
+  "versionName": "1.4.44",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.44/MultIPTV-1.4.44-debug.apk",
+  "sha256": "32d68bc633427a6adb4a66094572d30814638e3521b959d6274b4599e90076b1",
   "minSdk": 23,
-  "notes": "docs: owner decisions — F19 won't do, F20 approved, F35 unblocked"
+  "notes": "fix125/F27: a local-file picker Android TV can actually show"
 }
