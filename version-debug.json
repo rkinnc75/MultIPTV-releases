@@ -1,8 +1,8 @@
 {
-  "versionCode": 448,
-  "versionName": "1.4.42",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.42/MultIPTV-1.4.42-debug.apk",
-  "sha256": "bb0c76acbe2f15f408ddb741b2266baed366ba8fb7efebfcf19c15266979cd26",
+  "versionCode": 449,
+  "versionName": "1.4.43",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.43/MultIPTV-1.4.43-debug.apk",
+  "sha256": "22a96a950d9ba8341f421748e3cfb5c46301799035affb012dd72c4c67154508",
   "minSdk": 23,
-  "notes": "docs: F47/F48 Stalker VOD + catch-up dispositioned WON'T DO"
+  "notes": "docs: owner decisions — F19 won't do, F20 approved, F35 unblocked"
 }
