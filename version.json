@@ -1,8 +1,8 @@
 {
-  "versionCode": 457,
-  "versionName": "1.4.51",
-  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.51/MultIPTV-1.4.51.apk",
-  "sha256": "6225247d40112a8f6848940ebe43a146ab39706e0e061b080fe30768c9068a71",
+  "versionCode": 462,
+  "versionName": "1.4.56",
+  "apkUrl": "https://github.com/rkinnc75/MultIPTV-releases/releases/download/v1.4.56/MultIPTV-1.4.56.apk",
+  "sha256": "a81a6055ee6fca9708fc0d9bb78072aed21c38a70f93664bc22ff784587e0123",
   "minSdk": 23,
-  "notes": "Merge PR #34 (fix131): preflight as a CI gate, and three won't-dos un-ticked"
+  "notes": "Merge PR #37 (fix134): remove 37 dead string resources"
 }
